@@ -1,0 +1,101 @@
+name: Sync from tuya-local main repo
+on:
+  schedule:
+    - cron: '0 0 * * *'   # daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout the current fork repository with full history
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+          fetch-depth: 0
+
+      # Step 2: Check if upstream has new releases compared to our fork
+      - name: Check for new upstream release
+        id: check
+        run: |
+          # Get the latest semantic version tag from upstream repo
+          upstream_tag=$(git ls-remote --tags https://github.com/make-all/tuya-local.git | grep -E 'refs/tags/[0-9]+\.[0-9]+\.[0-9]+$' | cut -d/ -f3 | sort -V | tail -n1)
+          echo "latest_upstream=$upstream_tag" >> $GITHUB_OUTPUT
+
+          # Get the latest semantic version tag from our fork
+          fork_tag=$(git tag | grep -E '^[0-9]+\.[0-9]+\.[0-9]+$' | sort -V | tail -n1 || echo "")
+          echo "fork_latest=$fork_tag" >> $GITHUB_OUTPUT
+
+          # Compare versions and set flag for conditional execution
+          if [ "$upstream_tag" != "$fork_tag" ]; then
+            echo "new_release=true" >> $GITHUB_OUTPUT
+            echo "New upstream release found: $upstream_tag (current: $fork_tag)"
+          else
+            echo "new_release=false" >> $GITHUB_OUTPUT
+            echo "No new releases (current: $fork_tag)"
+          fi
+
+      # Step 3: Sync code from upstream ONLY if there's a new release
+      - name: Sync upstream changes
+        if: steps.check.outputs.new_release == 'true'
+        id: sync
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
+        with:
+          target_sync_branch: main
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+          upstream_sync_branch: main
+          upstream_sync_repo: make-all/tuya-local
+
+      # Step 4: Fetch upstream release metadata
+      - name: Fetch upstream release metadata
+        if: steps.check.outputs.new_release == 'true'
+        id: upstream_release
+        run: |
+          # Fetch release information from upstream repository
+          release_data=$(curl -s -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/make-all/tuya-local/releases/tags/${{ steps.check.outputs.latest_upstream }}")
+
+          # Extract release name and body, handle potential JSON escaping
+          release_name=$(echo "$release_data" | jq -r '.name // .tag_name')
+          release_body=$(echo "$release_data" | jq -r '.body // "No release notes available"')
+
+          # Set outputs for use in subsequent steps
+          echo "release_name=$release_name" >> $GITHUB_OUTPUT
+
+          # Handle multiline body content properly
+          echo "release_body<<EOF" >> $GITHUB_OUTPUT
+          echo "$release_body" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+          echo "Fetched release: $release_name"
+
+      # Step 5: Create a matching release tag in our fork
+      - name: Create matching release tag
+        if: steps.check.outputs.new_release == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Creating tag for new release: ${{ steps.check.outputs.latest_upstream }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag ${{ steps.check.outputs.latest_upstream }}
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git ${{ steps.check.outputs.latest_upstream }}
+
+      # Step 6: Create a GitHub release with upstream metadata
+      - name: Create GitHub Release
+        if: steps.check.outputs.new_release == 'true'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.check.outputs.latest_upstream }}
+          name: ${{ steps.upstream_release.outputs.release_name }}
+          body: ${{ steps.upstream_release.outputs.release_body }}
+
+      # Step 7: Log when no action is needed
+      - name: No new releases
+        if: steps.check.outputs.new_release == 'false'
+        run: echo "No new upstream releases found. Skipping sync."
