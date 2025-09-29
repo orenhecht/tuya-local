@@ -47,7 +47,8 @@
 - Kogan panel heaters - KAHTP, KAWFHTP, KASMGPH models
 - Lehmann LHOHC-2013C electric radiator
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
-- Modern Flames Orion fireplace
+- Modern Ember Vibrance XH-BG-15W/30WZKWIFI-10 electric fireplace
+- Modern Flames Orion electric fireplace
 - MRC Magnum floor heating
 - Nedis ceramic PTC fan heater
 - Nedis convection heater - WIFIHTPL20F model
@@ -102,6 +103,7 @@
 - Idea Heating Belt (with CS1 USB dongle)
 - Igenix IG9901WIFI portable air conditioner
 - Inventor Comfort and Leon air conditioners
+- Kaisai Pro Heat+ air conditioner
 - Klarstein Iceblock Ecosmart air conditioner
 - Kogan portable air conditioners (Y09, Y12, Y16)
 - Kogan vertical window air conditioner
@@ -145,6 +147,7 @@
 - Pool Systems IPS Pro pool heat pump (also Fairland Inver-X)
 - Pro-Energy PE08 pool heat pump
 - Remora pool heat pump
+- Sibrape CBC-Pool BP heat pump
 - Steinbach Solid 4.3 and Silent Mini pool heat pumps
 - Swim & Fun InverBoost pool heat pump
 - W'eau pool heat pump (simple model and a more complex 13kW model)
@@ -208,7 +211,7 @@
 - EZAIoT R9Lite thermostat
 - EZAIoT thermostat smartplug
 - Garza thermostat
-- Herschel XLS T-PL plugin thermostat
+- Herschel XLS T-MS mains and T-PL plugin thermostats
 - Hysen HY02TP, HY08ACF, HY08WE-2, HY101RF thermostats
 - Inkbird IPT-2CH v2.0 reptile thermostat
 - Inkbird ITC306A, ITC308 thermostat smartplugs
@@ -271,7 +274,7 @@
 - ComfortZone Powr Curve stand fan
 - Create XW-FAN-215-D ceiling fan with light (dimming and non-dimming variants)
 - Depauley WS-FPZ37-18I-EU ceiling fan with light
-- Deta fan controller
+- Deta fan controllers (6914HA Series 2 and 3)
 - Djive ARC humidifying fan
 - Dream Maker Feel DM01 fan
 - Duux Whisper Flex pedestal fan
@@ -283,6 +286,7 @@
 - Fanco Eco Silent Deluxe ceiling fan with LED light
 - FlinQ Breeze indoor pedestal fan
 - GHome SW19 ceiling fan and light switch
+- Globe ceiling fans with RGBCW lights (with and without presets)
 - Goldair GCPF315 fan
 - Goldair Platinum tower fan (2 variants)
 - Hiper T3 bladeless fan
@@ -316,6 +320,7 @@
 - Point One Technology Storm VSPEC-IV dual axis corner fan
 - Prestige M3 ceiling fan with light
 - Princess DC pedestal fan
+- Princess Smart air cooler
 - Princess Smart Tower fan
 - Reiga ceiling fans with and without light
 - Riyue Box 3 fan with light
@@ -339,7 +344,7 @@
 
 ### Air Purifiers
 
-- Alen BreatheSmart 35i air purifier
+- Alen BreatheSmart 35i and 45i air purifiers
 - Arlec APR005HA air purifier
 - Breville Easy Air, Smart Air Connect, Smart Air Viral Protect Plus purifiers
 - Cleverio AP100 air purifier
@@ -409,7 +414,7 @@
 - Siguro SGR DH-F300W dehumidifier
 - Sygonix Smarter dehumidifier
 - Tesla Smart XL dehumidifier
-- VacPlus dehumidifier
+- VacPlus dehumidifier
 - Vivosun DE0003 dehumidifier
 - Woods WDD90 dehumidifier
 
@@ -474,7 +479,7 @@
 - Silvercrest HF-6602T air fryer
 - Ultenic K10 air fryer
 - Wandai GS-801 infant formula maker (sold as Easybaby, Gustino)
-- Weekett smart kettle
+- Weeket KE4071TF, KES5211TE-CE smart kettles
 
 ### Smart Meter/Circuit Breaker
 
@@ -517,7 +522,7 @@
 - Tomzn energy meter
 - Tongou QCB2-WB WiFi 4P circuit breaker (3-phase and single phase variants)
 - Tongou SA1 WiFi energy meter
-- Tongou SMR1 circuit breaker
+- Tongou SMR1 20 and 40 circuit breakers
 - Tongou ST463JWT 4P 3-phase circuit breaker
 - Tongou TO-Q-SYS-WT energy monitoring circuit breaker
 - Unknown brand dual channel smart meter
@@ -679,6 +684,7 @@ of device.
 - Generic RGB only "Dreamlight" LED strip
 - Generic RGB only light bar - like the lights above, but no white light controls supported.
 - Unbranded 1CH dimmer module
+^ Unbranded 4-in-1 10GHz motion sensor 
 - Unbranded dual dimmer module
 - A60 1800-2700K RGBWW light
 - Arknoah Aquarium lights
@@ -688,6 +694,7 @@ of device.
 - Atomi smart color string light
 - Blitzwolf BW-LT31 LED strip
 - Brilliant Smart 22W twin flood lights with motion sensor
+- Brilliant Smart PIR outdoor sensor light switch
 - Brizlabs string lights
 - Calex S45 Clear E27 lightbulb
 - Deltaco LED Strip (SH-LW5M)
@@ -701,6 +708,7 @@ of device.
 - Fancy LEDs screen sync light 2.0
 - Feit dimmer (may work with other brands that just have a switch, dimmer and
   optional minimum brightness and bulb type)
+- Feit OneSync Smart Bridge lighting controller
 - Feit RGBWW light bulb (like generic RGBWW, but without scene support)
 - Galaxy Projector
 - Gosund SW2 dimmer switch
@@ -741,6 +749,7 @@ of device.
 - Richelieu tunable white LED puck light (166142030)
 - Spa Electrics Iris pool light controller
 - Space Dog Music Lamp (works for Aurora Smart Galaxy Star)
+- SunnyBot plant light
 - Tampa Magnetic LED System CD-TY-WY05
 - Teberno LED strip light (LGC-005 OEM3)
 - Tech Inc 3m neon strip
@@ -808,6 +817,7 @@ of device.
 - Airrobo P20 vacuum cleaner
 - Cecotec Conga 1970 vacuum cleaner
 - iHome Autoac Nova vacuum cleaner
+- ILIFE V20 and A30 pro vacuum cleaners
 - Kabum Smart 500, 700 vacuum cleaners
 - Kogan LX10, LX15, LX8 vacuum cleaners
 - Kyvol E30 vacuum cleaner
@@ -821,7 +831,7 @@ of device.
 - Neatsvor X600 vacuum cleaner
 - OPK K2 vacuum cleaner
 - Parkside PPWD 30 A1 workshop vacuum
-- Proscenic M9 vacuum cleaner
+- Proscenic M9, 850T vacuum cleaners
 - Rinkmo D2 vacuum cleaner
 - Tefal X-plorer serie 75 animal vacuum
 - Tesvor S6 vacuum cleaner with mop
@@ -928,6 +938,7 @@ port and password.
 - Duoqu Neo-A cat litter box
 - Els Pet Spaceship pet litter box
 - Faroro PF50 pet feeder
+- Fukumaru AF01-W pet feeder
 - Hapaw pet fountain
 - HoneyGuardian S56 pet feeder
 - iLonda L88 fish feeder
@@ -936,9 +947,12 @@ port and password.
 - Leo's Loo Too pet toilet
 - Littepets MA2 series Cute Baby cat litter box
 - LSC Smart Connect pet feeder
+- Meegeem cat litter box
+- MolyPet F02W pet feeder
 - Mypin 6L Video pet feeder
 - Nedis pet feeder
 - Papifeed pet feeder
+- Petempo PAF-02 pet feeder
 - Petlibro PLAF103 pet feeder
 - Petlibro PLAF203 pet feeder with camera
 - Petoneer Fresco EzGo pet fountain
@@ -1093,6 +1107,7 @@ port and password.
 
 - Adaprox Fingerbot plus
 - Ailrinni fingerprint door lock
+- AM24 venetian blinds motor
 - Arlec smart button
 - Arlec usb strip light
 - BSTUOKEY Invisible induction door lock
