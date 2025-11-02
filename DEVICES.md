@@ -227,10 +227,11 @@
 - KKMoon knob thermostat
 - Ledlux thermostat
 - ME80 touchscreen thermostat
+- Mi-Heat TH11-WF thermostat
 - Minco MH-1823D thermostat
 - Moes BHT-002 thermostat (without external temp sensor)
 - Moes MS-103 temperature and humidity switch (partial functions, temperature only)
-- Moes WHT-009 thermostat
+- Moes WHT-009, WHT-S01 thermostats
 - Multi Leaf DY-107 thermostat
 - Myuet ME82 thermostat
 - Nashone MTS-700-WB thermostat smartplug
@@ -292,6 +293,7 @@
 - Eglo 5 speed + sleep ceiling fan
 - eLinkSmart KH-SY2626 pedestal fan
 - Fanco Eco Silent Deluxe ceiling fan with LED light
+- Fisher F-ERVQ-B150CO2 heat recovery ventilator
 - FlinQ Breeze indoor pedestal fan
 - GHome SW19 ceiling fan and light switch
 - Globe ceiling fans with RGBCW lights (with and without presets)
@@ -315,6 +317,7 @@
 - Keyun MKCFE002 RGB chandelier fan
 - Kogan bladeless fans
 - Ledkia fan and light controller
+^ Ledvance Ceiling fan with light
 - Lexy F501 fan
 - Ligency E26 socket ceiling fan with RGBCW light
 - Living Comfort LC310S twin window fan
@@ -427,7 +430,7 @@
 - Tesla Smart XL dehumidifier
 - VacPlus dehumidifier
 - Vivosun DE0003 dehumidifier
-- Woods WDD90 dehumidifier
+- Woods MRD25GW and WDD90 dehumidifiers
 
 ### Humidifiers
 
@@ -468,6 +471,7 @@
 - Aeno EK1S and EK7S kettles
 - Aeno KS1S kitchen scale
 - Anko 1.7L smart kettle
+- BlitzHome BH-CDW1 dishwasher
 - Ciarra CBCS4850 range hood
 - Casdon TD Pro 2 oven
 - Cecofry 5500 Connected air fryer
@@ -482,7 +486,7 @@
 - Kogan glass 1.7L smart kettle
 - Korex AX-WF306N smart kettle
 - Leoffen LFIM6000 ice cube maker
-- Recteq RT700 and RT1250 grills
+- Recteq RT-700, RT-1250, RT-B380X grills
 - Rohnson R-2858 SmartChef XL soft cooking air fryer
 - Setti+ KT950W smart kettle
 - Silvercrest 1.7L smart kettle
@@ -498,6 +502,7 @@
 - Atorch S1BW,S1WP energy monitoring switches with display
 - Atorch AT2PL energy monitoring breaker switch (also working for GR2PWS)
 - Atorch AT4PW energy monitor
+- Atorch DT20HBW DC battery monitor
 - Aulifants SMES200 energy monitoring breaker switch
 - Avidsen Soria 400W solar inverter
 - CBI Astute smart controller breaker switch
@@ -560,6 +565,7 @@
 - EcoPoint EV charger
 - EVSun EV charger
 - Feyree EV charger (several models)
+- Ipengen GO-E31-16A EV charger
 - Kolanky 3.6kW EV charger
 - MakeSkyBlue MPPT solar battery charger
 - Nine 32A EV charger
@@ -607,7 +613,8 @@ the best option.
 - ES01 3 outlet + USB powerstrip with individual timers
 - ESP Fort EC-SPSP USB and mains smartplug
 - Gosund P1 3 outlet + USB powerstrip with power monitoring
-- Gosund SP112-RTL energy monitoring smartplug with USB
+- Gosund SP112-RTL power monitoring smartplug with USB
+- Gosund SP211 power monitoring dual smartplug
 - Gosund WP9-RTL 3 outlet + USB powerstrip with child lock and initial state
 - Grid Connect double outlet wall socket
 - Grid Connect double outlet with Energy Monitoring, Master and Individual switches and Child Lock
@@ -638,6 +645,7 @@ the best option.
 - Relay switch with 433MHz remote (unbranded)
 - RCU16 16ch relay module
 - Single switch with backlight (unbranded)
+- Smart P01 power monitoring smartplug
 - Somgam single wall switch
 - Somgam double wall switch
 - Teckin SS42 outdoor double smartplug
@@ -716,6 +724,7 @@ of device.
 - Dim2Warm G95 Gold 1800-2700K CCT lightbulb
 - Dream of You dual dimmable lamp
 - Dual-mode magic light string controller
+- Elegrp DTR10 dimmer light switch
 - Enbrighten Café string lights
 - Enbrighten Curtain lights
 - Fancy LEDs screen sync light 2.0
@@ -812,6 +821,7 @@ of device.
 - Moes SCS80 Touch curtain switch with backlight and timing control
 - Moes WS-USR-2C double curtain switch with backlight
 - Moes WS-Y-EUC curtain switch with backlight and timing control
+- Outdoor Inc zip blind
 - QS-WIFI-C01(BK) curtain module
 - QS-WIFI-C02 dual curtain module
 - Safe CON09 barrier controller
@@ -906,6 +916,7 @@ port and password.
 - BCom Majic IPBox intercom camera
 - Camnsmart E27-TY camera
 - Door peephole camera
+- EMOS IP-300 camera with floodlight
 - Garage door opener camera combo
 - HomeMate PTZ indoor camera
 - Kerui 200W camera
@@ -1051,6 +1062,7 @@ port and password.
 - GZAIR radon gas detector
 - Haier Nayun NY-GS-04 combustible gas alarm
 - Haoliyuen EWC02 air quality monitor
+- Haozee explosive gas leak and carbon monoxide alarm
 - Haozee PS10 mmWave presence sensing light switch
 - Houschen anti-fog bathroom mirror with lights
 - HRT AS90 temperature and humidity alarm
@@ -1072,6 +1084,7 @@ port and password.
 - Mirabella Genio motion sensor
 - Moes human presence sensor
 - Moes single outlet water timer
+- Moes smart wake up light alarm clock
 - Momcozy white noise machine (2 variants)
 - Mustool MT15/MT29 air quality box
 - Nedis WIFIPD10WT pill dispenser
@@ -1108,6 +1121,7 @@ port and password.
 - TOPENS TC196 remote control for gate openers
 - Treatlife 24GHz mmWave human presence sensor
 - Valehaus SYZN119 towel warmer
+- Vivo FD55 motorized TV mount
 - VT-14N1 9-in-1 air quality monitor
 - Weaja WJ-TUYA-S9 gas alarm
 - WeatherStation Pro
@@ -1118,6 +1132,7 @@ port and password.
 - Yieryi water quality monitor (also matches unbranded PH-W3988 device)
 - Yinmik WF-3188 water quality monitor
 - Zecamin ZG-205W mmWave human presence sensor
+- ZMP71SH variable speed swimming pool pump
 - ZN-2C09 9-in-1 air quality monitor
 - ZX-GS21 gas leak alarm monitor
 - ZY-HPS01 human presence sensor
@@ -1181,9 +1196,10 @@ entity types as sub devices.
 - LoraTap QCSC400ZB-V2 curtain switch
 - LoraTap SC500ZB-V2 curtain controller
 - Loratap SS9600ZB 6 button remote control
-- Moes BRT-100-TRV radiator valve
+- Moes BRT-100-TRV thermostat radiator valve
 - Moes dual dimmer module
 - Moes RGBCW lightbulb
+- Moes TRV601/605/606 thermostat radiator valve
 - Moes ZHT-002 thermostat
 - MultiIR MIR-TE100-TY temperature and humidity sensor
 - Nedis ZBRC10WT 4 button remote control
