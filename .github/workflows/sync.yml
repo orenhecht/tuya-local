@@ -41,15 +41,70 @@ jobs:
           fi
 
       # Step 3: Sync code from upstream ONLY if there's a new release
-      - name: Sync upstream changes
+      - name: Sync upstream changes with conflict resolution
         if: steps.check.outputs.new_release == 'true'
         id: sync
-        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
-        with:
-          target_sync_branch: main
-          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-          upstream_sync_branch: main
-          upstream_sync_repo: make-all/tuya-local
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Setting up git configuration..."
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          echo "Adding upstream remote..."
+          git remote add upstream https://github.com/make-all/tuya-local.git || true
+          git fetch upstream main
+
+          echo "Attempting to merge upstream/main..."
+          if git merge upstream/main --no-edit; then
+            echo "Merge successful without conflicts"
+          else
+            echo "Merge conflicts detected. Resolving..."
+
+            # For workflow files: always keep ours (deleted state) or remove them
+            for file in .github/workflows/*.yml .github/workflows/*.yaml; do
+              if [ -f "$file" ] && [ "$file" != ".github/workflows/sync.yml" ]; then
+                echo "Removing workflow file: $file"
+                git rm -f "$file" 2>/dev/null || rm -f "$file"
+              fi
+            done
+
+            # For any other conflicts, accept theirs (upstream changes)
+            git status --porcelain | grep '^UU\|^DU\|^UD\|^AA\|^DD' | awk '{print $2}' | while read file; do
+              if [[ ! "$file" =~ ^.github/workflows/ ]]; then
+                echo "Accepting upstream version for: $file"
+                git checkout --theirs "$file"
+                git add "$file"
+              fi
+            done
+
+            # Mark workflow conflicts as resolved
+            git add .github/workflows/ 2>/dev/null || true
+
+            echo "Committing merge with conflict resolution..."
+            git commit -m "Merge upstream changes (auto-resolved workflow conflicts)"
+          fi
+
+          echo "Ensuring no unwanted workflow files remain..."
+          cd .github/workflows
+          shopt -s extglob nullglob
+          removed_files=()
+          for file in !(sync.yml); do
+            if [ -f "$file" ]; then
+              echo "Removing: $file"
+              rm -f "$file"
+              removed_files+=("$file")
+            fi
+          done
+          cd ../..
+
+          if [ ${#removed_files[@]} -gt 0 ]; then
+            git add .github/workflows/
+            git commit -m "chore: remove original repo workflows after sync" || true
+          fi
+
+          echo "Pushing changes to fork..."
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
 
       # Step 4: Fetch upstream release metadata
       - name: Fetch upstream release metadata
