@@ -14,7 +14,7 @@
 - BVF CP1 heater
 - Caldo Up T fan heater
 - Calex Smart Convector heater
-- Cecotec ReadyWarm 8400 fan heater
+- Cecotec ReadyWarm 8400 Fan and 2000 Max Box Ceramic heaters
 - Cleverio AR10/AR20 panel heaters
 - Create Warm Towel Advance bathroom heater
 - Cronos GPH-D-DA heater
@@ -74,6 +74,7 @@
 - Vonroc GPH-XA-HEMAN heater
 - VTA+ Axial fan heater
 - Wärme Designer wall panel heater
+- WarmeHaus AFD-02-TJ thermostatic towel rain element
 - Wetair WCH-750 heater
 
 ### Air Conditioners / Heat pumps
@@ -170,10 +171,11 @@
 - EMS Thermal 200L domestic heat pump hot water system
 - Ferroli Titano Twin water heater
 - Fisher air to water heat pump
-- Geyserwise TSE1 Geyser controller kit
+- Geyserwise TSE1 and MWS Geyser controller kits
 - Giatsu VAW 2 heat pump water heater
 - HY multifunctional heat pump V1.2
 - Hydrotherm Dynamic/X8 heat pump hot water systems (Gen 5 and 6)
+- Intaflo Intabloc DC Inverter air-water heat pump
 - ITS-4.5HD super water heat pump
 - Koi Duo HTW-TD-080KOID
 - Lohxa SR208C solar water heating controller
@@ -286,6 +288,7 @@
 - Depauley WS-FPZ37-18I-EU ceiling fan with light
 - Deta fan controllers (6914HA Series 2 and 3)
 - Djive ARC humidifying fan
+- dLuft Smart Flow ventilator fan
 - Dream Maker Feel DM01 fan
 - Duux Whisper Flex pedestal fan
 - Duux Whisper Flex Ultimate
@@ -335,6 +338,7 @@
 - Princess DC pedestal fan
 - Princess Smart air cooler
 - Princess Smart Tower fan
+- Prism+ Oasis Pro ceiling fan with RGBCCT light
 - Reiga ceiling fans with and without light
 - Riyue Box 3 fan with light
 - Roomratv ceiling fan with light
@@ -391,7 +395,7 @@
 
 ### Dehumidifiers
 
-- Aktobis WDH-310EK dehumidifier
+- Aktobis WDH-310EK and WDH-870FW dehumidifiers
 - AlecoAir D12 ECO, D12/D16 Home, D14, D16, D25 Traditio dehumidifiers
 - Argo Dry Pury Evo WF dehumidifier
 - Arida S7L-2 dehumidifier
@@ -442,6 +446,7 @@
 - Clean Air Optima CA-604B, CA-605B humidifiers
 - Clofte Duo 400 humidifier
 - Eanons QT-JS2014 purifying humidifier
+- Homvana H111S humidifier
 - Inkbird IHC-200 humidity controller
 - Klarta Humea humidifier
 - Kyvol EA200 humidifier
@@ -472,6 +477,7 @@
 
 - Aeno EK1S and EK7S kettles
 - Aeno KS1S kitchen scale
+- Amenzo dishwasher
 - Anko 1.7L smart kettle
 - BlitzHome BH-CDW1 dishwasher
 - Ciarra CBCS4850 range hood
@@ -551,7 +557,8 @@
 - Xoca DAC2121C BI energy meter
 - Yagusmart 3PN 63A 3-phase multi-tariff energy meter
 - Zemismart SDM01-TW0-12-ZM 3-phase bidirectional energy meter
-- Zemismart SMD02T-TZ 2phase 120A bidirectional energy meter
+- Zemismart SMD02T-TZ 2-phase 120A bidirectional energy meter
+- Zemismart SPM02-D2TW 3-phase energy meter
 - Zemismart ZMAi-90 smart switch energy meter
 - ZM-Wi-Fi smart meter
 
@@ -652,6 +659,7 @@ the best option.
 - Somgam double wall switch
 - Teckin SS42 outdoor double smartplug
 - Tellur 3 outlet + USB power strip with individual timers
+- TY-12W 12 switch relay board
 - WF-WS02 RJ dual switch with master
 - Woox R4028/DIGOO DG-PS01 3 outlet + USB powerstrip with individual timers
 
@@ -811,6 +819,7 @@ of device.
 - FS-03W curtain switch with backlight control
 - Graywind window shades
 - GW Motor roller blinds
+- HHC AM68 curtain motor
 - Kimex motorized cinema screen
 - Kogan garage door with tilt sensor
 - KY motor 35W-10 shutter controller
@@ -966,6 +975,7 @@ port and password.
 - Duoqu Neo-A cat litter box
 - Els Pet Spaceship pet litter box
 - Faroro PF50 pet feeder
+- FeelNeedy P-LFP01 camera pet feeder
 - Fukumaru AF01-W pet feeder
 - Hapaw pet fountain
 - HoneyGuardian S56 pet feeder
@@ -1060,6 +1070,7 @@ port and password.
 - CT20W PIR motion detector
 - Dienmern DM165A noise meter
 - Digma DiSense G1 gas leak detector
+- EASTtime D401 water purifier
 - E Chief SGH01 hydroponic planter
 - EM3390TF weather station (tested with Viflykoo branded device, probably identical to the same model number branded as Uzoli, Jely and others)
 - Emax EM3378 Weather Station (selling as Hiper P1 and other rebrands)
