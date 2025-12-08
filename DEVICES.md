@@ -48,6 +48,7 @@
 - Kogan flame effect heater - KAWHMFP20BA model
 - Kogan tower heater - KASTHFP2KWA model
 - Kogan panel heaters - KAHTP, KAWFHTP, KASMGPH models
+- Lebenlang LBL0380 heater
 - Lehmann LHOHC-2013C electric radiator
 - Livn Arosa electric fireplace
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
@@ -57,6 +58,7 @@
 - Nedis ceramic PTC fan heater
 - Nedis convection heater - WIFIHTPL20F model
 - Nybro heater
+- Orbegozo RRW heater
 - Orion OWH-PTC2000 heater
 - Point POPANW600 panel heater
 - Princess 350 panel heater
@@ -74,8 +76,9 @@
 - Vonroc GPH-XA-HEMAN heater
 - VTA+ Axial fan heater
 - Wärme Designer wall panel heater
-- WarmeHaus AFD-02-TJ thermostatic towel rain element
+- WarmeHaus AFD-02-TJ thermostatic towel rail element
 - Wetair WCH-750 heater
+- Zephir ZMW4000V wall heater
 
 ### Air Conditioners / Heat pumps
 
@@ -105,6 +108,7 @@
 - Friedrich Uni-Fit air conditioner (models: UCT14A30, UCT12A30, UCT08B10A)
 - Fujicool Yuzu heat pump
 - Goldair GCPAC350W portable air conditioner
+- Haier Airmart wall air conditioner
 - Idea Heating Belt (with CS1 USB dongle)
 - Igenix IG9901WIFI portable air conditioner
 - Inventor Comfort and Leon air conditioners
@@ -183,6 +187,7 @@
 - Neopower Black Diamond all-in-one heat pump water heater
 - Nulite NL-B245 monobloc heat pump
 - Powerworld PW040, PWS58330, PWS58410 air+water heat pumps
+- Rinnai Enviroflo heat pump water heater
 - Sanden GAU-A45HPD WiFi heat pump controller
 - SolarEast (Adlar Castra) Aurora II heat pump
 - Thermex IF series V pro and Lima 80V hot water systems
@@ -240,8 +245,9 @@
 - Nashone MTS-700-WB thermostat smartplug
 - Netmostat N-1 (RTAFN1) thermostat
 - Owon PCT513 thermostat
-- Polytherm Polyalpha thermostat
+- Pilot Wire RP5 bath thermostat
 - Plikc Neve X W/RFW and Neve Pro W thermostats
+- Polytherm Polyalpha thermostat
 - Psmart T436 thermostat
 - RYRA TYTE-D1 thermostat with energy monitoring
 - Salcar T9W thermostat _(likely also Tellur TSH02)_
@@ -299,6 +305,7 @@
 - Fanco Eco Silent Deluxe ceiling fan with LED light
 - Fisher F-ERVQ-B150CO2 heat recovery ventilator
 - FlinQ Breeze indoor pedestal fan
+- Funai Fuji ERW-150 Ultimate ventilation fan
 - GHome SW19 ceiling fan and light switch
 - Globe ceiling fans with RGBCW lights (with and without presets)
 - Goldair GCPF315 fan
@@ -333,6 +340,7 @@
 - Orison Chanfok Neo ceiling fan with light
 - Orison RGB ambient bladeless ceiling fan
 - Ovlaim ceiling fan with cool/warm white dimmable light
+- Plikc Ario WiFi air vent
 - Point One Technology Storm VSPEC-IV dual axis corner fan
 - Prestige M3 ceiling fan with light
 - Princess DC pedestal fan
@@ -372,6 +380,7 @@
 - Honeywell Air Touch P2 Air Purifier
 - Hosome air purifier
 - iHunt 400m³/h and 50m³/h air purifiers
+- Jafanda JF260S air purifier
 - Kilo Plus air purifier
 - Klarta Stor 2 and Forste 4 air purifiers
 - Kogan 2S and 5 pro air purifiers
@@ -407,7 +416,7 @@
 - Dura Comfort DH50PWM dehumidifier
 - Ebac DJ4000 dehumidifier
 - Eberg Rico R12E2 dehumidifier
-- ElectriQ CD12PRO-LE, CD12PW, CD20PRO-LE-V2, CD25PRO-LE-V2 dehumidifiers
+- ElectriQ CD12PRO-LE, CD12PW, CD20PRO-LE-V2/V4, CD25PRO-LE-V2 dehumidifiers
 - ElectriQ DESD9LW dehumidifier (two variants)
 - Electriq PD45E dehumidifier
 - Eeese Adam, Anna, Carl, Emil, Otto dehumidifiers
@@ -441,6 +450,7 @@
 ### Humidifiers
 
 - airx H8 humidifier
+- AlecoAir PU55 Humino humidifier
 - BlitzWolf BW-SH2, BW-SH5 humidifiers
 - Carro VES1011 humidifier
 - Clean Air Optima CA-604B, CA-605B humidifiers
@@ -450,6 +460,7 @@
 - Inkbird IHC-200 humidity controller
 - Klarta Humea humidifier
 - Kyvol EA200 humidifier
+- Miro Q-Tower humidifier
 - OGACFO LFHM055 humidifier
 - RZTK Aqua Pro humidifier
 - Stadler Form Eva, Karl, Karl Big humidifiers
@@ -522,6 +533,7 @@
 - DTS238-7 3 phase smart meter
 - Dual CT clamp bidirectional meter
 - EARU EAEMP3C-100-TY-W 3 phase bidirectional energy monitoring breaker
+- EARU EAMPDW-TY-63 3-phase energy monitoring breaker
 - EARU EASEM-D 3-phase multi circuit power meter
 - EARU SW RCB, DBN breakers
 - eMylo EAI-90 smart meter
@@ -733,10 +745,12 @@ of device.
 - Deta 6910HA series2 dimmer switch
 - Dim2Warm G95 Gold 1800-2700K CCT lightbulb
 - Dream of You dual dimmable lamp
+- Dreamegg Nite 1 baby sound machine
 - Dual-mode magic light string controller
 - Elegrp DTR10 dimmer light switch
 - Enbrighten Café string lights
 - Enbrighten Curtain lights
+- EZValo Smart desk lamp
 - Fancy LEDs screen sync light 2.0
 - Feit dimmer (may work with other brands that just have a switch, dimmer and
   optional minimum brightness and bulb type)
@@ -747,6 +761,7 @@ of device.
 - Gosund SW2 dimmer switch
 - HDMI sync light
 - HDMI TV ambient lighting 65
+- Hombli CCT 2024 Christmas lights
 - iHD001 LED controller
 - Ion LED WiFi dimmer
 - iSparkle Curtain Micro Lights
@@ -952,6 +967,7 @@ port and password.
 - Digoo DG-HAMB GSM security alarm system
 - GauTone PG-103 security alarm system
 - HLG Infinity alarm
+- Kerui 120dB siren alarm
 - Smart alarm siren (unbranded)
 - Staniot smart security panel
 - Tolviviov DP-W2.1 security alarm panel
@@ -991,7 +1007,9 @@ port and password.
 - MolyPet F02W pet feeder
 - Mypin 6L camera pet feeder
 - Nedis pet feeder
+- Newpet pet feeder
 - Ningbo BF314A camera pet feeder
+- Oneisall PFD-002 Pro IR pet feeder
 - Papifeed pet feeder
 - Petempo PAF-02 pet feeder
 - Petlibro PLAF103 pet feeder
@@ -1018,6 +1036,7 @@ port and password.
 - WellToBe Automatic Pet Feeder (WB S36D)
 - YP pet feeder
 - Yuposl dual-band pet feeder
+- Zedar K1200 cat litter box
 
 ### Remote controllers
 
@@ -1035,6 +1054,7 @@ port and password.
 - ARD-100+ valve controller
 - Aubess Rainpoint TTP106W irrigation system
 - Becasmart BAF-908 irrigation system
+- FrankEver BV05 water valve
 - Garza Wi-Fi garden irrigation system (ITV103W with 433MHz WiFi hub)
 - Haozee water valve
 - Hoenyzy DN15 / DN20 / DN25 gas and water valve timers
