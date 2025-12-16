@@ -1137,7 +1137,7 @@ Further device support has been made with the assistance of users. Please consid
 - [christianglodt](https://github.com/christianglodt) for contributing support for Plikc Ario WiFi air vent.
 - [george-oniceag](https://github.com/george-oniceag) for contributing support for AlecoAir PU55 Humino humidifier, Faro Barcelona Punt Tub fan (merged to calibo).
 - [yurgh](https://github.com/yurgh) for contributing improvements to Eeese Carl dehumidifier.
-- [fredppm](https://github.com/fredppm) for contributing support for Newpet pet feeder.
+- [fredppm](https://github.com/fredppm) for contributing support for Newpet pet feeder and Zemismart SPM02 V2.5 energy meter.
 - [politician](https://github.com/politician) for assisting with support for Kerui 120dB siren alarm.
 - [gooner1990](https://github.com/gooner1990) for assisting with support for Rinnai Enviroflo heat pump water heater.
 - [grantland](https://github.com/grantland) for contributing support for Dreamegg Nite 1 baby sound machine.
@@ -1162,3 +1162,4 @@ Further device support has been made with the assistance of users. Please consid
 - [barijaona](https://github.com/barijaona) for contributing support for SRNE SE Series lithium battery.
 - [marcins](https://github.com/marcins) for contributing support for Henden Essential pool heat pump.
 - [adrienkohlbecker](https://github.com/adrienkohlbecker) for assisting with support for Venta AH510 Original Connect humidifier.
+- [m4rt0s](https://github.com/m4rt0s) for contributing support for Sime EcoMaxi VB200 heat pump water heater.
