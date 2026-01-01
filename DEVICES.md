@@ -7,6 +7,7 @@
 - Andersson GSH heater
 - Arlec 2200W and 2400W panel heaters, CEH243HA ceramic heater
 - Atomi AT1632/AT1635 ceramic heaters
+- Auchsiag 750W/1500W electric fireplace
 - Betterlife BT1500 IR heater
 - Blumfeldt/Klarstein Cosmic Beam Smart 24 infrared radiant heater
 - Breville AirRounder Plus Connect purifier heater
@@ -16,6 +17,7 @@
 - Calex Smart Convector heater
 - Cecotec ReadyWarm 8400 Fan and 2000 Max Box Ceramic heaters
 - Cleverio AR10/AR20 panel heaters
+- Create Warm Clear vertical heater
 - Create Warm Towel Advance bathroom heater
 - Cronos GPH-D-DA heater
 - Devola Intelligent and Patio heaters
@@ -65,6 +67,7 @@
 - Prosto PTC 2000 heater
 - Purline Hoti M100 heater
 - Quality Heating QH-GD Elegant Series IR panel heaters
+- Rovsun NSC-150-7A2R oil column heater
 - Rumba bathroom heater
 - Semptec ZX7007 infrared heater
 - Sichler ZX-7655/ZX-7656 hybrid infrared convection heater
@@ -171,6 +174,7 @@
 
 - Apricus heat pump water heater
 - Aquatech Rapid/X6 heat pump water heater
+- Arçelik AHPH-MM series combo air-water heat pump
 - Axen KS-100W/EN8BP combo heat pump (rebranded as Arielli)
 - Deakon EVI DC inverter heat pump
 - EMS Thermal 200L domestic heat pump hot water system
@@ -192,6 +196,7 @@
 - Sanden GAU-A45HPD WiFi heat pump controller
 - Sime EcoMaxi VB200 heat pump water heater
 - SolarEast (Adlar Castra) Aurora II heat pump
+- Thermann R290 heat pump water heater
 - Thermex IF series V pro and Lima 80V hot water systems
 - Thermoval Aqua TI water heater
 
@@ -235,6 +240,7 @@
 - Jiahong ET-72W thermostat (branded Warmme in the app)
 - Kiturami NCTR-100 water and heating thermostat
 - KKMoon knob thermostat
+- Konlen WF72TT/WF96TT dual temperature controller
 - Ledlux thermostat
 - ME80 touchscreen thermostat
 - Mi-Heat TH11-WF thermostat
@@ -323,8 +329,10 @@
 - Hunter Pacific 9 speed ceiling fan with light
 - HYD WeAir Plus bladeless fan with heating function
 - Immax Neo Lite Vento ceiling fan with light
+- InTec ceiling fan with light
 - Kavunion C1 100 ventilation fan
 - KCvents VT501-W heat recovery ventilation
+- Klarstein Airfold Smart ceiling fan with light
 - Klarstein Skyscaper Ice cooling fan
 - Klarstein Skytower Grand Smart cooling fan
 - Keyun MKCFE002 RGB chandelier fan
@@ -358,6 +366,7 @@
 - Skyfan DC fan
 - Skyfan DC fan with light
 - Smart Mist3 TX-1602MF (ZJ-1522A-WiFi)
+- Smartmi Air Circulating fan
 - Stirling FS1-40DC pedestal fan
 - Sulion Crixus L ceiling fan with light
 - Temple and Webster Alina ceiling fan
@@ -427,6 +436,7 @@
 - Gologi GO021 dehumidifier
 - Greenmigo Alpha Q25 dehumidifier
 - Honeywell TP(30/50/70) dehumidifiers
+- HTW HTWD020A4 dehumidifier
 - Hyundai Sahara dehumidifier
 - Inkbird IHC-200 humidity controller
 - Inventor Atmosphere XL, Eva Ion Pro, Rise Pro dehumidifiers
@@ -436,6 +446,7 @@
 - Luko dehumidifier
 - MeacoDry Arete Two 10L dehumidifier
 - Morris MDB-12160HIW dehumidifier
+- NWT WDH-02EM dehumidifier
 - Pro Breeze 30L dehumidifier
 - Pro Breeze D-23 dehumidifier
 - Qlima D720, D812 and D820A dehumidifiers
@@ -443,6 +454,7 @@
 - Sefaul Q8 dehumidifier
 - Shinco 30D dehumidifier (also matches Klarstein DryFy Connect)
 - Siguro SGR DH-F300W dehumidifier
+- Stadler Form Lukas dehumidifier
 - Sygonix Smarter dehumidifier
 - Tesla Smart XL dehumidifier
 - VacPlus dehumidifier
@@ -451,11 +463,12 @@
 
 ### Humidifiers
 
+- Advwin 13L humidifier
 - airx H8 humidifier
 - AlecoAir PU55 Humino humidifier
 - BlitzWolf BW-SH2, BW-SH5 humidifiers
 - Carro VES1011 humidifier
-- Clean Air Optima CA-604B, CA-605B humidifiers
+- Clean Air Optima CA-604B, CA-605B, CA-607B humidifiers
 - Clofte Duo 400 humidifier
 - Eanons QT-JS2014 purifying humidifier
 - Homvana H111S humidifier
@@ -479,6 +492,7 @@
 - Delixing KCL-1802A-M aroma diffuser
 - Ditua DT-1522-YN aroma diffuser
 - Etersky aroma diffuser with light
+- GD2050WIFI aroma diffuser
 - InLine ultrasonic aroma diffuser
 - Maxico aroma diffuser with light (cannot be differentiated automatically from Ditua above)
 - Revesien Q-Pro-W aroma diffuser
@@ -495,17 +509,18 @@
 - Anko 1.7L smart kettle
 - BlitzHome BH-CDW1 dishwasher
 - Ciarra CBCS4850 range hood
+- Casdon KG1 inline water dispenser
 - Casdon TD Pro 2 oven
 - Cecofry 5500 Connected air fryer
 - Etna VW644MC dishwasher
 - Goldair GGK1000 smart kettle
 - Götze and Jensen KT975K smart kettle
 - Homend Royaltea kettle
-- Inkbird iBBQ-4BW, iBBQ-4T, IBS-M1S, IBS-M2, IBT-26S cooking probe thermometers
+- Inkbird iBBQ-4BW, iBBQ-4T, IBS-M1S, IBS-M2, IBT-26S, INT-12-BW cooking probe thermometers
 - Inkbird ISC-007BW smoker fan controller
 - Inkbird sous vide cooker (also supports Silvercrest sous vide sticks)
 - Klarstein Amazonia dishwasher
-- Kogan glass 1.7L smart kettle
+- Kogan glass 1.7L smart kettle (at least 2 different variants)
 - Korex AX-WF306N smart kettle
 - Leoffen LFIM6000 ice cube maker
 - Recteq RT-700, RT-1250, RT-B380X grills
@@ -731,7 +746,7 @@ of device.
 - Generic RGB only "Dreamlight" LED strip
 - Generic RGB only light bar - like the lights above, but no white light controls supported.
 - Unbranded 1CH dimmer module
-- Unbranded 4-in-1 10GHz motion sensor 
+- Unbranded 4-in-1 10GHz motion sensor
 - Unbranded dual dimmer module
 - A60 1800-2700K RGBWW light
 - Arknoah Aquarium lights
@@ -795,6 +810,7 @@ of device.
 - NemoLight Extreme Series aquarium light
 - Newone WF39M dimmer smartplug
 - Nince RGB LED strip
+- oLight Sphere ambient light
 - Outon Smart Lamp
 - Peteme recessed lighting
 - PowerAsia RGB 6-inch recessed lighting
@@ -836,6 +852,7 @@ of device.
 - Eruiklink curtain motor
 - Etersky curtain switch with backlight and timing control
 - FS-03W curtain switch with backlight control
+- Garen TSI Fit garage door opener
 - Graywind window shades
 - GW Motor roller blinds
 - HHC AM68 curtain motor
@@ -998,6 +1015,7 @@ port and password.
 - FeelNeedy P-LFP01 camera pet feeder
 - Fukumaru AF01-W pet feeder
 - Hapaw pet fountain
+- Happy Llama Tech SoCool pet feeder
 - HoneyGuardian S56 pet feeder
 - iLonda L88 fish feeder
 - iPettie W5 pet feeder
@@ -1059,6 +1077,7 @@ port and password.
 - Aubess Rainpoint TTP106W irrigation system
 - Becasmart BAF-908 irrigation system
 - FrankEver BV05 water valve
+- Frizzlife LP365P water monitor shut-off valve
 - Garza Wi-Fi garden irrigation system (ITV103W with 433MHz WiFi hub)
 - Haozee water valve
 - Hoenyzy DN15 / DN20 / DN25 gas and water valve timers
@@ -1070,6 +1089,7 @@ port and password.
 - Qoto 03 smart water valve / sprinkler controller
 - Qoto 05 smart water valve / sprinkler controller
 - SH07-8 / SH07S-TY smart sprinkler controller (sold as Aquarobo, Leictory LK06 and other brands)
+- Sunlary indoor plant watering system
 - Wasserstein AquaPal water monitor
 - Zemismart DP-WBS01 8-zone sprinkler controller (also sold as Benexmart and other brands)
 
@@ -1174,6 +1194,7 @@ port and password.
 - Yieryi water quality monitor (also matches unbranded PH-W3988 device)
 - Yinmik WF-3188 water quality monitor
 - Zecamin ZG-205W mmWave human presence sensor
+- Zeissler ZSw.1312 water leak detector
 - ZMP71SH variable speed swimming pool pump
 - ZN-2C09 9-in-1 air quality monitor
 - ZX-GS21 gas leak alarm monitor
