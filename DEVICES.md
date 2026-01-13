@@ -16,6 +16,7 @@
 - Caldo Up T fan heater
 - Calex Smart Convector heater
 - Cecotec ReadyWarm 8400 Fan and 2000 Max Box Ceramic heaters
+- Cixi Jemell PTC-1919 PTC heater
 - Cleverio AR10/AR20 panel heaters
 - Create Warm Clear vertical heater
 - Create Warm Towel Advance bathroom heater
@@ -46,6 +47,7 @@
 - Kennedy II/JR electric fireplace
 - Kesser Infrared 400W wall and 3000W heaters with and without lights.
 - Klarstein Bornholm Smart 1500 convection heater
+- Klarstein Bornholm Electric heater (1kW, based on WBR3)
 - Klarstein Wonderwall IR heaters (including Air Art, Bornholm, 600 models)
 - Kogan flame effect heater - KAWHMFP20BA model
 - Kogan tower heater - KASTHFP2KWA model
@@ -53,10 +55,10 @@
 - Lebenlang LBL0380 heater
 - Lehmann LHOHC-2013C electric radiator
 - Livn Arosa electric fireplace
+- Magnum MRC floor heating (2 variants)
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
 - Modern Ember Vibrance XH-BG-15W/30WZKWIFI-10 electric fireplace
 - Modern Flames Orion electric fireplace
-- MRC Magnum floor heating
 - Nedis ceramic PTC fan heater
 - Nedis convection heater - WIFIHTPL20F model
 - Nybro heater
@@ -174,6 +176,7 @@
 
 - Apricus heat pump water heater
 - Aquatech Rapid/X6 heat pump water heater
+- Aquaviva AVH15S combo air-water heat pump
 - Arçelik AHPH-MM series combo air-water heat pump
 - Axen KS-100W/EN8BP combo heat pump (rebranded as Arielli)
 - Deakon EVI DC inverter heat pump
@@ -191,6 +194,7 @@
 - Modena ES-15-SKY water heater
 - Neopower Black Diamond all-in-one heat pump water heater
 - Nulite NL-B245 monobloc heat pump
+- Oekoboiler RS series heat pump water heater
 - Powerworld PW040, PWS58330, PWS58410 air+water heat pumps
 - Rinnai Enviroflo heat pump water heater
 - Sanden GAU-A45HPD WiFi heat pump controller
@@ -220,18 +224,21 @@
 - Drexma WiStat ET7AW thermostat
 - DunWore F60 floor heating thermostat
 - EARU Electronic K6H-3A-W thermostat
+- Elko EKO07262 thermostat
 - EleChico CCST6001 thermostat
 - Emmeti Zona thermostat
+- Essentials Wall thermostat
 - ETOP-FCU thermostat (Jaga JRT-100TW)
 - ETOP-HP thermostat (CH7100)
 - ETOP-HT thermostat
 - ETOP-HT-CH thermostat (branded as Ferco GN1)
+- ETOP-HT=CH Pro thermostat (branded as PNI CT36 Pro)
 - Ettroit LN4102 thermostat
 - Eurom WiFi thermostat
 - Euroster 4040 Smart thermostat
 - EZAIoT R9Lite thermostat
 - EZAIoT thermostat smartplug
-- Garza thermostat
+- Garza Aspen and (unknown model) thermostats
 - Herschel XLS T-MS mains and T-PL plugin thermostats
 - Hysen HY02TP, HY08ACF, HY08WE-2, HY101RF thermostats
 - Inkbird IPT-2CH v2.0 reptile thermostat
@@ -303,11 +310,14 @@
 - Deta fan controllers (6914HA Series 2 and 3)
 - Djive ARC humidifying fan
 - dLuft Smart Flow ventilator fan
+- Dometek Diamond ceiling fan with light
 - Dream Maker Feel DM01 fan
 - Duux Whisper Flex pedestal fan
 - Duux Whisper Flex Ultimate
 - Dyras TF-16WIFI tower fan
 - Eberg Fyn tower fan
+- EcoNour 42" tower fan
+- Efenz Kith ceiling fan with light
 - Eglo 5 speed + sleep ceiling fan
 - eLinkSmart KH-SY2626 pedestal fan
 - Fanco Eco Silent Deluxe ceiling fan with LED light
@@ -329,9 +339,11 @@
 - Hunter Pacific 9 speed ceiling fan with light
 - HYD WeAir Plus bladeless fan with heating function
 - Immax Neo Lite Vento ceiling fan with light
+- Inkbird IVC001W fan controller
 - InTec ceiling fan with light
 - Kavunion C1 100 ventilation fan
 - KCvents VT501-W heat recovery ventilation
+- Kendal KVT-Touchtower pedestal fan
 - Klarstein Airfold Smart ceiling fan with light
 - Klarstein Skyscaper Ice cooling fan
 - Klarstein Skytower Grand Smart cooling fan
@@ -391,7 +403,7 @@
 - Honeywell Air Touch P2 Air Purifier
 - Hosome air purifier
 - iHunt 400m³/h and 50m³/h air purifiers
-- Jafanda JF260S air purifier
+- Jafanda JF260S and JF500 air purifiers
 - Kilo Plus air purifier
 - Klarta Stor 2 and Forste 4 air purifiers
 - Kogan 2S and 5 pro air purifiers
@@ -403,9 +415,9 @@
 - Proscenic A8 and A9 air purifiers
 - Renpho RP-AP001S air purifier
 - Siguro Air Master AP-K50 air purifier
-- Smartmi E1 air purifier
+- Smartmi E1 and P1 air purifiers
 - Soho SO-350WUI Air Purifier
-- Soleusair A02 and A10 air purifiers
+- Soleusair A02 and A10 air purifiers
 - Stadler Form Roger air purifier
 - Tesla Smart S300, Pro and Mini air purifiers
 - TrueLife P3 and P7 air purifiers
@@ -444,6 +456,7 @@
 - Klarstein DryFy Pro Connect dehumidifier
 - Kogan SmarterHome 7L desiccant dehumidifier
 - Luko dehumidifier
+- Meaco DD8L Pro dehumidifier
 - MeacoDry Arete Two 10L dehumidifier
 - Morris MDB-12160HIW dehumidifier
 - NWT WDH-02EM dehumidifier
@@ -459,6 +472,7 @@
 - Tesla Smart XL dehumidifier
 - VacPlus dehumidifier
 - Vivosun DE0003 dehumidifier
+- Wellio D008A 20L dehumidifier
 - Woods MRD25GW and WDD90 dehumidifiers
 
 ### Humidifiers
@@ -473,12 +487,12 @@
 - Eanons QT-JS2014 purifying humidifier
 - Homvana H111S humidifier
 - Inkbird IHC-200 humidity controller
-- Klarta Humea humidifier
+- Klarta Humea and Humea Grande humidifiers
 - Kyvol EA200 humidifier
 - Miro Q-Tower humidifier
 - OGACFO LFHM055 humidifier
 - RZTK Aqua Pro humidifier
-- Stadler Form Eva, Karl, Karl Big humidifiers
+- Stadler Form Eva, Karl, Karl Big, Noah humidifiers
 - Tesla Smart humidifier
 - Venta AH510 Original Connect humidifier
 - Wetair WAW-H1210LW humidifier
@@ -572,6 +586,7 @@
 - SmartMCB SMT006 energy meter (10 byte and 8 byte phase info variants)
 - Solar Grid/Smart GTB series solar inverter
 - Stepuptech SG800, SPD800 solar inverters
+- Taffware 1P-J-63 circuit breaker
 - Taxnele circuit breaker and energy meter
 - TOMPD-63LW, 63-WIFI energy meter circuit breakers
 - Tomzn energy meter
@@ -604,7 +619,9 @@
 - EcoPoint EV charger
 - EVSun EV charger
 - Feyree EV charger (several models)
+- Immax Neo Lite 3-phase 22kW EV charger
 - Ipengen GO-E31-16A EV charger
+- Junsun 32A EV charger
 - Kolanky 3.6kW EV charger
 - MakeSkyBlue MPPT solar battery charger
 - Nine 32A EV charger
@@ -801,6 +818,7 @@ of device.
 - Malmbergs QS-WIFI-D02-TRIAC-2C dual dimmer module
 - Malmbergs NV-SWQ triple dimmer module
 - Marpou RGBCW ceiling light
+- MiBoxer WL-Box2 zone control gateway
 - Mirabella Genio Pixel LED oval light
 - Moes dimmer switch
 - Moes motion sensor lights (XZ-CGV3)
@@ -1011,7 +1029,9 @@ port and password.
 - Doel cat litter box
 - Duoqu Neo-A cat litter box
 - Els Pet Spaceship pet litter box
+- Evergreen Solar bird feeder camera
 - Faroro PF50 pet feeder
+- Faroro TD20 pet treat camera
 - FeelNeedy P-LFP01 camera pet feeder
 - Fukumaru AF01-W pet feeder
 - Hapaw pet fountain
@@ -1085,6 +1105,7 @@ port and password.
 - Holman WX2 dual tap timer
 - Holman WX8 8 sprinkler irrigation controller
 - KRain KRX8 irrigation controller
+- Neo NAS-WV02W water use monitoring valve
 - Neptun Smart water leak control system
 - Qoto 03 smart water valve / sprinkler controller
 - Qoto 05 smart water valve / sprinkler controller
