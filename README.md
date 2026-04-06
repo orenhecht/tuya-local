@@ -1,4 +1,4 @@
-# Home Assistant Tuya Local component
+![logo](custom_components/tuya_local/brand/icon.svg) 
 
 **--- This is a fork that brings back support for Tadiran ACs ---**
 
@@ -269,7 +269,7 @@ Tuya IR and RF blasters are exposed as remote entities and support learning and
 sending commands via the standard Home Assistant remote services.
 
 ### Learning commands
-
+
 Use the `remote.learn_command` service with:
 - `command`: the name to store the command under (e.g. `power`)
 - `device`: a name for the appliance being controlled (e.g. `TV`)
