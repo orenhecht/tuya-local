@@ -13,7 +13,7 @@ jobs:
     steps:
       # Step 1: Checkout the current fork repository with full history
       - name: Checkout target repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: main
           persist-credentials: false
@@ -110,22 +110,31 @@ jobs:
       - name: Fetch upstream release metadata
         if: steps.check.outputs.new_release == 'true'
         id: upstream_release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Fetch release information from upstream repository
-          release_data=$(curl -s -H "Accept: application/vnd.github.v3+json" \
+          # Fetch release information from upstream repository and fail fast on API errors.
+          release_data=$(curl -fsSL \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GITHUB_TOKEN}" \
             "https://api.github.com/repos/make-all/tuya-local/releases/tags/${{ steps.check.outputs.latest_upstream }}")
 
-          # Extract release name and body, handle potential JSON escaping
+          # Extract release name and body, preserving an explicit fallback for empty notes.
           release_name=$(echo "$release_data" | jq -r '.name // .tag_name')
-          release_body=$(echo "$release_data" | jq -r '.body // "No release notes available"')
+          release_body=$(echo "$release_data" | jq -r 'if (.body // "") == "" then "No release notes available" else .body end')
+
+          if [ -z "$release_name" ] || [ "$release_name" = "null" ]; then
+            echo "Unable to determine upstream release name for tag ${{ steps.check.outputs.latest_upstream }}"
+            echo "$release_data"
+            exit 1
+          fi
+
+          release_body_path="${RUNNER_TEMP}/upstream-release-notes.md"
+          printf '%s\n' "$release_body" > "$release_body_path"
 
           # Set outputs for use in subsequent steps
           echo "release_name=$release_name" >> $GITHUB_OUTPUT
-
-          # Handle multiline body content properly
-          echo "release_body<<EOF" >> $GITHUB_OUTPUT
-          echo "$release_body" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          echo "release_body_path=$release_body_path" >> $GITHUB_OUTPUT
 
           echo "Fetched release: $release_name"
 
@@ -144,11 +153,11 @@ jobs:
       # Step 6: Create a GitHub release with upstream metadata
       - name: Create GitHub Release
         if: steps.check.outputs.new_release == 'true'
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.check.outputs.latest_upstream }}
           name: ${{ steps.upstream_release.outputs.release_name }}
-          body: ${{ steps.upstream_release.outputs.release_body }}
+          body_path: ${{ steps.upstream_release.outputs.release_body_path }}
 
       # Step 7: Log when no action is needed
       - name: No new releases
