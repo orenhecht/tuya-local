@@ -108,7 +108,7 @@
 - Chiltrix CX50 and CX35
 - Confortotal CICON242 mini split air conditioner
 - Cooper&Hunter Nordic Evo Ng
-- Costway portable air conditioner
+- Costway portable air conditioner models with and without heating
 - Daewoo Dhome OL-A011 air conditioner (DA9KWE)
 - Daizuki heat pump
 - Della air conditioner
@@ -233,7 +233,7 @@
 - 4-TH quad temperature/humidity smart switch
 - Arlec PCTH01HA temperature/humidity smart switch
 - Atorch AT4PTW DIN rail thermostat
-- Atorch S1TW thermostat smart switch
+- Atorch S1TW, S1BWP-T/H thermostat smart switches
 - Avatto ME81, WS20R and WT100 thermostats
 - Avonflow AFD14-H radiator thermostat
 - Awow/Mi-heat TH213 thermostat (two variants)
@@ -939,7 +939,7 @@ of device.
 - Eruiklink curtain motor
 - Etersky curtain switch with backlight and timing control
 - FS-03W curtain switch with backlight control
-- Garen TSI Fit garage door opener
+- Garen TSI Fit and Kit Central garage door openers
 - Graywind window shades
 - GW Motor roller blinds
 - HHC AM68 curtain motor
