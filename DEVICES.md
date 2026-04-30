@@ -26,8 +26,8 @@
 - Devola Intelligent and Patio heaters
 - Dynasty BTX fireplace
 - Ecostrad Accent iQ heating panel
-- Ecostrad iQ ceramic radiator
-- Ecostrad iQ heating element
+- Ecostrad iQ ceramic radiators
+- Ecostrad iQ heating elements
 - Emke Orbrad PTR towel radiator
 - Essentials Smart Home electric bathroom heater
 - eTowel Mini04 plus towel rail thermostat
@@ -98,6 +98,7 @@
 ### Air Conditioners / Heat pumps
 
 - Airton air conditioner
+- Aquastrong HEX pool heat pumps
 - Arlec PA1123BKHA portable air conditioner
 - Ballu Aura air conditioner
 - Be Cool BC14KL2101F
@@ -130,6 +131,7 @@
 - Haier Airmart wall air conditioner
 - Hokkaido HKEDM 263 ZL air conditioner
 - Idea Heating Belt (with CS1 USB dongle)
+- Ideal Clima TQCT07 fancoil air conditioner
 - Igenix IG9901WIFI portable air conditioner
 - Inventor Comfort and Leon air conditioners
 - Kaisai Pro Heat+ air conditioner
@@ -200,10 +202,11 @@
 - Arçelik AHPH-MM series combo air-water heat pump
 - Axen KS-100W/EN8BP combo heat pump (rebranded as Arielli)
 - Chiltrix CX50 combo heat pump
+- City Energy L10WFE gas water heater
 - Deakon EVI DC inverter heat pump
 - EMS Thermal 200L domestic heat pump hot water system
 - Envirosun ES330M9 hot water system
-- Ferroli Titano Twin water heater
+- Ferroli EGEA and Titano Twin water heaters
 - Fisher air to water heat pump
 - Geyserwise TSE1 and MWS Geyser controller kits
 - Giatsu VAW 2 heat pump water heater
@@ -212,8 +215,10 @@
 - Hydrotherm Dynamic/X8 heat pump hot water systems (Gen 5 and 6)
 - Intaflo Intabloc DC Inverter air-water heat pump
 - ITS-4.5HD super water heat pump
+- Joyonway PB562 spa pool controller
 - Koi Duo HTW-TD-080KOID
 - Lohxa SR208C solar water heating controller
+- Macro MA-20WODP gas water heater
 - Modena ES-15-SKY water heater
 - Neopower Black Diamond all-in-one heat pump water heater
 - Nulite NL-B245 monobloc heat pump
@@ -242,7 +247,7 @@
 - Beok TCB/W38 thermostat (also sold as RT-70 under other brands)
 - Beok TGR81 thermostat _(also reported working with Myuet ME98, Avatto WT81/ME81)_
 - Beok SH-TGM50-WP, TGM50, TOL47, TR8B thermostats
-- Beok TR9B thermostat _(rebadged as Vancoo and perhaps others)_
+- Beok TR9B _(rebadged as Vancoo and perhaps others)_, TR9B-AC2 thermostats
 - BHT-002-GALW and GABW thermostats _(rebadged as many different brands)_
 - Brade MC6 thermostat _(rebadged as many different brands)_
 - Dr Heater DR-008 electric radiant floor thermostat
@@ -292,6 +297,7 @@
 - Polytherm Polyalpha thermostat
 - Psmart T436 thermostat
 - RYRA TYTE-D1 thermostat with energy monitoring
+- Sajun steam room
 - Salcar T9W thermostat _(likely also Tellur TSH02)_
 - Saswell C16 thermostat _(rebadged as Warmme, Klima and others)_
 - Saswell T29UTW thermostat
@@ -345,7 +351,7 @@
 - Eberg Fyn tower fan
 - EcoNour 42" tower fan
 - Efenz Kith ceiling fan with light
-- Eglo 5 speed + sleep ceiling fan
+- Eglo 5 speed + sleep ceiling fan (with or without light and presets)
 - eLinkSmart KH-SY2626 pedestal fan
 - Fanco Eco Silent Deluxe ceiling fan with LED light
 - Fanforce ceiling fan with light
@@ -414,7 +420,8 @@
 - Skyfan DC fan with light
 - Smart Mist3 TX-1602MF (ZJ-1522A-WiFi)
 - Smartmi Air Circulating fan
-- Stirling FS1-40DC pedestal fan
+- Stirling FS1-40DC pedestal fan
+
 - Sulion Crixus L ceiling fan with light
 - Temple and Webster Alina ceiling fan
 - TMWF02 fan controller
@@ -425,6 +432,7 @@
 - Windcalm ceiling fans with and without cool/warm white dimmable light
 - Yidi/NHZS fan and light wall switch
 - Yijingkc 284-8 ceiling fan
+- Yoevu EOS ceiling fan with CCT light
 - Yunlong ceiling fan with RGBCW lights
 
 ### Air Purifiers
@@ -460,6 +468,7 @@
 
 - Stadler Form Roger air purifier
 - Tesla Smart S300, Pro and Mini air purifiers
+- Trident AirDome-70 air purifier
 - TrueLife P3 and P7 air purifiers
 - Vephos True air purifier
 - Vestfrost VP-A1Z40HW air purifier
@@ -496,6 +505,7 @@
 - Juro-Pro 2006 dehumidifier
 - Klarstein DryFy Pro Connect dehumidifier
 - Kogan SmarterHome 7L desiccant dehumidifier
+- Krisbow Sync 36W dehumidifier
 - Luko dehumidifier
 - Meaco DD8L Pro dehumidifier
 - MeacoDry Arete Two 10L dehumidifier
@@ -545,11 +555,11 @@
 
 ### Aroma diffusers
 
-- Asakuki aroma diffuser with light (newer devices seem to require the Ditua config below)
+- Asakuki aroma diffuser with light (newer devices seem to require the Dituo config below)
 - Cadance ultrasonic aroma diffuser with light and music playback
 - Calex V2 aroma diffuser
 - Delixing KCL-1802A-M aroma diffuser
-- Ditua DT-1522-YN aroma diffuser
+- Dituo DT-1522-YN aroma diffuser
 - Etersky aroma diffuser with light
 - GD2050WIFI aroma diffuser
 - Haoyunma BD100 aroma diffuser
@@ -629,6 +639,7 @@
 - MatSee Plus bidirectional two channel clamp meter (multiple variants)
 - Meterk single phase clamp meter
 - Ourtop ATMS100133 energy meter
+- Owon PC341 3 in 16 out clamp energy meter
 - Parkside PG/PMW-300 solar inverter
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
@@ -643,7 +654,7 @@
 - Taffware 1P-J-63 circuit breaker
 - Taxnele circuit breaker and energy meter
 - TOMPD-63LW, 63-WIFI energy meter circuit breakers
-- Tomzn energy meter
+- Tomzn energy meter (SWC32v4 and other models)
 - Tongou QCB2-WB WiFi 4P circuit breaker (3-phase and single phase variants)
 - Tongou SA1 WiFi energy meter
 - Tongou SMR1 20 and 40 circuit breakers
@@ -654,6 +665,7 @@
 - V-WIFI-DL02-ES energy consumption dual clamp meter
 - Veratti V4 3-phase energy meter circuit breaker
 - WDYK 2P63A, 3P 400V, 4P100A energy meter circuit breakers
+- WMDL 2C dual channel bidirectional energy meter
 - Xoca DAC2121C BI energy meter
 - Yagusmart 3PN 63A 3-phase multi-tariff energy meter
 - Zemismart SDM01-TW0-12-ZM 3-phase bidirectional energy meter
@@ -768,7 +780,7 @@ the best option.
 - Teckin SS42 outdoor double smartplug
 - Tellur 3 outlet + USB power strip with individual timers
 - Tongou TOVTH-216WTTDA temperature humidity sensor dual smart switch
-- TY-12W 12 switch relay board
+- TY-12W/24W 12/24 switch relay boards (boards with 8 - 24 relays supported)
 - WF-WS02 RJ dual switch with master
 - Woox R4028/DIGOO DG-PS01 3 outlet + USB powerstrip with individual timers
 
@@ -1072,6 +1084,7 @@ port and password.
 
 ### Alarm control panels
 
+- Aixi-SHS Big siren alarm system
 - BlitzWolf BW-IS6 security alarm system
 - CPVAN CP2W alarm system
 - Digoo DG-HAMB GSM security alarm system
@@ -1112,6 +1125,7 @@ port and password.
 - Happy Llama Tech SoCool pet feeder
 - HoneyGuardian S56 pet feeder
 - iLonda L88 fish feeder
+- Imipaw DUW21 WBR3D cat feeder
 - iPettie W5 pet feeder
 - Kanchou pet fountain
 - Leo's Loo Too pet toilet
@@ -1216,6 +1230,7 @@ port and password.
 - CO2v1 carbon dioxide sensor
 - C30W gas leak detector
 - CT20W PIR motion detector
+- Dekala Lumos sunrise alarm clock
 - Dienmern DM165A noise meter
 - Digma DiSense G1 gas leak detector
 - EASTtime D401 water purifier
@@ -1243,6 +1258,7 @@ port and password.
 - Kishin BS-DW002 motion sensor (sold under various brands)
 - KKMoon 7in1 air quality monitor
 - Kogan bidet toilet seat
+- Kogan KASMWEKFITEA fitted electric blanket
 - Kogan KAWHTNOSLPA white noise sleep aid
 - Konlen SNT957W-TDE E3S temperature alarm
 - Konlen/Rockson WF96L water level controller
@@ -1263,7 +1279,7 @@ port and password.
 - PGST PA-010 indoor temperature and humidity sensor
 - PH-W218 water quality monitor
 - Pinjia PJ3101A presence sensor
-- PlantsIO Ivy smart planter
+- PlantsIO Ivy and Ivy Gen2 smart planters
 - PNI Sofe House Smart Gas 300 alarm
 - Prodotec PT02 air quality monitor
 - Protmex PT-19DW alarm clock with temperature and humidity monitor
@@ -1324,6 +1340,7 @@ port and password.
 - Arlec usb strip light
 - BSTUOKEY Invisible induction door lock
 - Diivoo DWV010, WT05 dual water timers
+- Dituo DT-T2190A aroma diffuser
 - Gainsborough Liberty entrance lock
 - HCT-611 water timer
 - HCT-626 dual water timer
@@ -1366,6 +1383,7 @@ entity types as sub devices.
 - Aubess temperature and humidity sensor
 - Avatto TRV06 radiator valve (also sold branded as Thaleos)
 - Avatto ZWT198 thermostat
+- Beok BAC-009 smart knob thermostat
 - Generic Zigbee Door Sensor
 - Haozee RB-SRAIN01 solar rain sensor
 - Haozee ZG-302ZM mmWave presence dual light switch
