@@ -14,6 +14,9 @@ send_learned_ir_command:
       selector:
         text:
     emitter_entity_id:
-      entity:
-        filter:
-          - domain: infrared
+      example: "infrared.my_ir_emitter"
+      required: true
+      selector:
+        entity:
+          filter:
+            domain: infrared
