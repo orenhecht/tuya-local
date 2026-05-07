@@ -20,7 +20,7 @@ from .remote import TuyaLocalRemote
 
 REMOTE_SEND_IR_COMMAND_SCHEMA = {
     vol.Required("emitter_entity_id"): cv.entity_id,
-    vol.Required("code"): str,
+    vol.Required("command"): str,
     vol.Optional("device"): str,
 }
 
