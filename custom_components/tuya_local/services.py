@@ -1,14 +1,16 @@
 """Services for Tuya Local integration."""
 
+import asyncio
 import voluptuous as vol
 
+import homeassistant.components.infrared
 from homeassistant.components.remote import (
     DOMAIN as REMOTE_DOMAIN,
     ATTR_DELAY_SECS,
     DEFAULT_DELAY_SECS,
 )
 from homeassistant.core import HomeAssistant, ServiceCall
-from homeassistant.helpers import entity_registry as er, service
+from homeassistant.helpers import service
 
 from .const import DOMAIN
 from .remote import TuyaLocalRemote
@@ -21,6 +23,8 @@ REMOTE_SEND_IR_COMMAND_SCHEMA = vol.Schema(
         vol.Optional("device"): str,
     }
 )
+
+_LOGGER = logging.getLogger(__name__)
 
 
 async def async_setup_services(hass: HomeAssistant, entities: list[str]):
@@ -52,12 +56,12 @@ async def async_handle_send_ir_command(entity, call: ServiceCall):
     delay = call.data.get(ATTR_DELAY_SECS, DEFAULT_DELAY_SECS)
     entity._extract_codes([command], subdevice=device)  # Validate command and get code
     at_least_one_sent = False
-    for _, codes in product(range(repeat), code_list):
+    for _, codes in code_list:
         if at_least_one_sent:
             await asyncio.sleep(delay)
         if len(codes) > 1:
-            code = codes[entity._flags[subdevice]]
-            self._flags[subdevice] ^= 1
+            code = codes[entity._flags[device]]
+            entity._flags[device] ^= 1
         else:
             code = codes[0]
         if code.startswith("rf:"):

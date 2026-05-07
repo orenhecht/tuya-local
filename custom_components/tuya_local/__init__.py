@@ -909,7 +909,6 @@ async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry):
         return False
 
     entities = set()
-    has_remote = False
     for e in device_conf.all_entities():
         entities.add(e.entity)
 

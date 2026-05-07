@@ -13,7 +13,7 @@ from itertools import product
 from typing import Any
 
 import voluptuous as vol
-from homeassistant.components import infrared, persistent_notification
+from homeassistant.components import persistent_notification
 from homeassistant.components.remote import (
     ATTR_ALTERNATIVE,
     ATTR_COMMAND_TYPE,
@@ -37,7 +37,6 @@ from .device import TuyaLocalDevice
 from .entity import TuyaLocalEntity
 from .helpers.config import async_tuya_setup_platform
 from .helpers.device_config import TuyaEntityConfig
-from .infrared import TuyaRemoteCommand
 
 _LOGGER = logging.getLogger(__name__)
 
