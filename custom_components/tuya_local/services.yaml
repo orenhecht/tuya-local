@@ -15,4 +15,5 @@ send_learned_ir_command:
         text:
     emitter_entity_id:
       entity:
-        domain: infrared
+        filter:
+          - domain: infrared
