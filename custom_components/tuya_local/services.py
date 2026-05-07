@@ -1,9 +1,10 @@
 """Services for Tuya Local integration."""
 
 import asyncio
+import logging
 import voluptuous as vol
 
-import homeassistant.components.infrared
+from homeassistant.components import infrared
 from homeassistant.components.remote import (
     DOMAIN as REMOTE_DOMAIN,
     ATTR_DELAY_SECS,
@@ -54,7 +55,9 @@ async def async_handle_send_ir_command(entity, call: ServiceCall):
     device = call.data.get("device")
     command = call.data.get("command")
     delay = call.data.get(ATTR_DELAY_SECS, DEFAULT_DELAY_SECS)
-    entity._extract_codes([command], subdevice=device)  # Validate command and get code
+    code_list = entity._extract_codes(
+        [command], subdevice=device
+    )  # Validate command and get code
     at_least_one_sent = False
     for _, codes in code_list:
         if at_least_one_sent:
