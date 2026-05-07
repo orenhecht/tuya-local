@@ -21,13 +21,13 @@ from homeassistant.components.remote import (
     ATTR_DEVICE,
     ATTR_NUM_REPEATS,
     DEFAULT_DELAY_SECS,
-    DOMAIN as RM_DOMAIN,
     SERVICE_DELETE_COMMAND,
     SERVICE_LEARN_COMMAND,
     SERVICE_SEND_COMMAND,
     RemoteEntity,
     RemoteEntityFeature,
 )
+from homeassistant.components.remote import DOMAIN as RM_DOMAIN
 from homeassistant.const import ATTR_COMMAND
 from homeassistant.helpers import config_validation as cv
 from homeassistant.helpers.storage import Store

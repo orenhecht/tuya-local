@@ -2,20 +2,20 @@
 
 import asyncio
 import logging
-import voluptuous as vol
 
+import voluptuous as vol
 from homeassistant.components import infrared
 from homeassistant.components.remote import (
-    DOMAIN as REMOTE_DOMAIN,
     ATTR_DELAY_SECS,
     DEFAULT_DELAY_SECS,
 )
+from homeassistant.components.remote import DOMAIN as REMOTE_DOMAIN
 from homeassistant.core import HomeAssistant, ServiceCall
 from homeassistant.helpers import service
 
 from .const import DOMAIN
-from .remote import TuyaLocalRemote
 from .infrared import TuyaRemoteCommand
+from .remote import TuyaLocalRemote
 
 REMOTE_SEND_IR_COMMAND_SCHEMA = vol.Schema(
     {
