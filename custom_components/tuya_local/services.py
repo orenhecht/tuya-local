@@ -11,8 +11,8 @@ from homeassistant.components.remote import (
 )
 from homeassistant.components.remote import DOMAIN as REMOTE_DOMAIN
 from homeassistant.core import HomeAssistant, ServiceCall
-from homeassistant.helpers import service
 from homeassistant.helpers import config_validation as cv
+from homeassistant.helpers import service
 
 from .const import DOMAIN
 from .infrared import TuyaRemoteCommand
