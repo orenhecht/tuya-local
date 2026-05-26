@@ -58,6 +58,7 @@
 - Kogan flame effect heater - KAWHMFP20BA model
 - Kogan tower heater - KASTHFP2KWA model
 - Kogan panel heaters - KAHTP, KAWFHTP, KASMGPH models
+- Konyks eCosy Pilot wire heating controller
 - Lebenlang LBL0380 heater
 - Lehmann LHOHC-2013C electric radiator
 - Livn Arosa electric fireplace
@@ -266,6 +267,7 @@
 - Emmeti Zona thermostat
 - Engo E901WiFi and EFAN230 thermostats
 - Essentials Wall thermostat
+- ET F32 thermostat
 - ETOP-FCU thermostat (Jaga JRT-100TW)
 - ETOP-HP thermostat (CH7100)
 - ETOP-HT thermostat
@@ -533,6 +535,7 @@
 - VacPlus dehumidifier
 - Vivosun DE0003 dehumidifier
 - Wellio D008A 20L dehumidifier
+- WetAir WAD-A10L dehumidifier
 - Woods MRD25GW and WDD90 dehumidifiers
 
 ### Humidifiers
@@ -1413,6 +1416,7 @@ entity types as sub devices.
 - LoraTap SC500ZB-V2 curtain controller
 - Loratap SS9600ZB 6 button remote control
 - Meian SW02 water leak detector
+- mmWave 4-in-1 human presence, temperature, humidity and illuminance sensor
 - Moes BRT-100-TRV thermostat radiator valve
 - Moes dual dimmer module
 - Moes RGBCW lightbulb
