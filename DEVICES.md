@@ -192,6 +192,7 @@
 - Steinbach Solid 4.3 and Silent Mini pool heat pumps
 - Swim & Fun InverBoost pool heat pump
 - Turbro 75000 btu pool heat pump
+- Varpoolfaye 5kW pool heat pump
 - Waterco Electroheat ECO-V pool heat pump
 - W'eau pool heat pump (simple model and a more complex 13kW model)
 
@@ -486,6 +487,7 @@
 - Vephos True air purifier
 - Vestfrost VP-A1Z40HW air purifier
 - Vork VK6067AW air purifier
+- Webber AP9750 air purifier
 
 ### Dehumidifiers
 
@@ -956,6 +958,7 @@ of device.
 - Abalon BCM700D curtain motor (likely to work with other brands)
 - AGL Ultracontato r2 door controller
 - AGL Ultra Magic gate opener
+- AOSDK garage door opener with light
 - Avatto curtain and double light switch (CL02, CLS02 models)
 - Avatto curtain and light switch
 - Avatto curtain switch
