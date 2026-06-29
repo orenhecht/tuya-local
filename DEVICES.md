@@ -174,6 +174,7 @@
 
 ### Pool heaters / heat pumps
 
+- Aquark Mr Silence pool heat pump
 - Aquastrong HEX pool heat pumps
 - Brustec BR-80 pool heat pump
 - BWT FI 45 heat pump
@@ -186,7 +187,7 @@
 - Madimack Eco, Elite V2,V3,V4 and other model pool heat pumps
 - Mountfield Azuro pool heat pump
 - Poolex Silverline, Q-7, Q-line, Arctic, Vertigo, Ice Spa, Mag FI, JetLine Premium FI heat pumps
-- Poolsana InverPower Next pool heat pump
+- Poolsana InverPower Next and InverPrestige Pro pool heat pumps
 - Poolstyle PSL-150-00xx pool heat pump
 - Pool Systems IPS Pro pool heat pump (also Fairland Inver-X)
 - Pro-Energy PE08 pool heat pump
@@ -236,6 +237,7 @@
 - Neopower Black Diamond all-in-one heat pump water heater
 - Nulite NL-B245 monobloc heat pump
 - Oekoboiler RS series heat pump water heater
+- Omni X Duplex water heater
 - Powerworld PW040, PW060, PWS58330, PWS58410 air+water heat pumps
 - Rinnai Enviroflo heat pump water heater
 - Sanden GAU-A45HPD WiFi heat pump controller
@@ -361,7 +363,7 @@
 - Create XW-FAN-215-D ceiling fan with light (dimming and non-dimming variants)
 - Depauley WS-FPZ37-18I-EU ceiling fan with light
 - Deta fan controllers (6914HA Series 2 and 3)
-- Djive ARC humidifying fan
+- Djive ARC portable and humidifying fans
 - dLuft Smart Flow ventilator fan
 - Dometek Diamond ceiling fan with light
 - Dream Maker Feel DM01 fan
@@ -400,6 +402,7 @@
 - KCvents VT501-W heat recovery ventilation
 - Kendal KVT-Touchtower pedestal fan
 - Klarstein Airfold Smart ceiling fan with light
+- Klarstein Icewind Plus Smart cooling fan
 - Klarstein Skyscaper Ice cooling fan
 - Klarstein Skytower Grand Smart cooling fan
 - Keyun MKCFE002 RGB chandelier fan
@@ -424,6 +427,7 @@
 - Orison RGB ambient bladeless ceiling fan
 - Ovlaim ceiling fan with cool/warm white dimmable light
 - Plikc Ario WiFi air vent
+- Poiema SGT-F12W fan
 - Point One Technology Storm VSPEC-IV dual axis corner fan
 - Prestige M3 ceiling fan with light
 - Princess DC pedestal fan
@@ -453,6 +457,7 @@
 - Varin CFWI50 RGBCW ceiling fan
 - Varin VA-E003 ceiling fan with light
 - Windcalm ceiling fans with and without cool/warm white dimmable light
+- Yamazen Living AHX-ALD30 pedestal fan
 - Yidi/NHZS fan and light wall switch
 - Yijingkc 284-8 ceiling fan
 - Yoevu EOS ceiling fan with CCT light
@@ -518,6 +523,7 @@
 - Electriq PD45E dehumidifier
 - Eeese Adam, Anna, Carl, Emil, Otto, Thor dehumidifiers
 - Emerio DH-129238.1 dehumidifier
+- EuropAce EDH3122A dehumidifier
 - Goldair GPDH340, GPDH420 dehumidifiers
 - Gologi GO021 dehumidifier
 - Greenmigo Alpha Q25 dehumidifier
@@ -568,6 +574,7 @@
 - Duux Beam 2 humidifier
 - Eanons QT-JS2014 purifying humidifier
 - Eberg HUMI H03G1 humidifier
+- Eta Noble humidifier
 - Homvana H111S humidifier
 - Inkbird IHC-200 humidity controller
 - Klarta Humea and Humea Grande humidifiers
@@ -620,14 +627,14 @@
 - Inkbird iBBQ-4BW, iBBQ-4T, IBS-M1S, IBS-M2, IBT-26S, INT-12-BW cooking probe thermometers
 - Inkbird ISC-007BW smoker fan controller
 - Inkbird sous vide cooker (also supports Silvercrest sous vide sticks)
-- KKT Kolbe kitchen hood
+- KKT Kolbe Easy and Solo kitchen hoods
 - Klarstein Amazonia dishwasher
 - Klarstein Ava range hood
 - Koenic KTM-221723-M kettle
 - Kogan glass 1.7L smart kettle (at least 2 different variants)
 - Korex AX-WF306N smart kettle
 - Leoffen LFIM6000 ice cube maker
-- Recteq RT-700, RT-1250, RT-B380X grills
+- Recteq RT-700, RT-800 Deck Boss, RT-1250, RT-B380X grills
 - Rohnson R-2858 SmartChef XL soft cooking air fryer
 - Setti+ KT950W smart kettle
 - Silvercrest 1.7L smart kettle
@@ -1153,6 +1160,7 @@ port and password.
 - BNETA F1-D pet feeder (likely compatible with Petwant F1-C)
 - Catit Pixi smart fountain
 - Catit pet feeder (Pixi 2.2kg dispenser and 6 meal versions, and another non-Pixi branded single dispenser)
+- Cecotec Pumba 8000/8500 CleanKitty litter box
 - Ceres Plus camera pet feeder
 - Cleverio PF100 pet feeder
 - Doel cat litter box
@@ -1352,6 +1360,7 @@ port and password.
 - Sunbeam single heated mattress pad
 - Sundream LC-series salt pool chlorinator (rebranded as Poolomio)
 - SWS-001 smart weather station
+- TC700 Pro air quality monitor
 - TH05Z temperature and humidity sensor
 - TH08 temperature and humidity sensor
 - TH16 temperature and humidity sensor
