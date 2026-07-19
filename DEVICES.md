@@ -26,6 +26,7 @@
 - Cronos GPH-D-DA heater
 - Devola Intelligent and Patio heaters
 - Dynasty BTX fireplace
+- Ecoso WiFi heating element
 - Ecostrad Accent iQ heating panel
 - Ecostrad iQ ceramic radiators
 - Ecostrad iQ heating elements
@@ -43,6 +44,7 @@
 - Goldair GPPH, GCPV, GECO, GPOC and PH-ET heaters
 - Hama radiator controller
 - Heatstorm DH-100-TWI, HS-1500 and HS-6000-GC heaters
+- Heatstrip Elegance outdoor heater
 - Herschel Select XLS heated bathroom mirror with lights
 - Herschel infrared heater
 - HJZ oil column radiator
@@ -103,6 +105,7 @@
 ### Air Conditioners / Heat pumps
 
 - Airton air conditioner
+- Airwoods fresh air heat pump
 - Arlec PA1123BKHA portable air conditioner
 - Ballu Aura air conditioner
 - Be Cool BC14KL2101F
@@ -126,6 +129,7 @@
 - ElectriQ 12WMINV
 - ElectriQ Airflex, EcoSilent models
 - ElectriQ SupremeCool SC16HPW
+- Eurom AC 5201 Caravan and Home air conditioner
 - Fersk Vind 2
 - Fisher Summer air conditioner
 - Fral Super Cool FSC08 WiFi portable air conditioner
@@ -153,6 +157,7 @@
 - Morris WFIN-35168 air conditioner
 - MyCond Berg air conditioner
 - Nedis ACMB1WT12 portable air conditioner
+- Olimpia Splendid Unico Pro air conditioner
 - Qlima SC 7035S and MS-AC 5002 air conditioners
 - Rotenso Roni R35WI and Roni X
 - Royal Clima Fresh air conditioner
@@ -215,6 +220,7 @@
 
 - Apricus heat pump water heater
 - A.O. Smith HeatBot 15L electric water heater
+- Aqua Plus APAIO270 heat pump water heater
 - Aquatech Rapid/X6 heat pump water heater
 - Aquaviva AVH15S combo air-water heat pump
 - Arçelik AHPH-MM series combo air-water heat pump
@@ -367,6 +373,7 @@
 - Cecotec ceiling fan with light
 - Chameleon TCG 100cm tower fan
 - Chanfok ceiling fan with cool/warm white dimmable light (2 variants)
+- Coibeu WKFS-004 ceiling fan with light
 - ComfortZone Powr Curve stand fan and CZTF423S tower fan
 - Create XW-FAN-215-D ceiling fan with light (dimming and non-dimming variants)
 - Depauley WS-FPZ37-18I-EU ceiling fan with light
@@ -404,6 +411,7 @@
 - Humhold 24" low profile ceiling fan with RGB+CW lights
 - Hunter Pacific 6 and 9 speed ceiling fans with light
 - HYD WeAir Plus bladeless fan with heating function
+- Imagine 3+1 triple switch with fan controller
 - Immax Neo Lite Vento ceiling fan with light
 - Inkbird IVC001W fan controller
 - InTec ceiling fan with light
@@ -435,6 +443,7 @@
 - Orison Chanfok Neo ceiling fan with light
 - Orison RGB ambient bladeless ceiling fan
 - Ovlaim ceiling fan with cool/warm white dimmable light
+- Pioneer ECOasis 150 ERV
 - Plikc Ario WiFi air vent
 - Poiema SGT-F12W fan
 - Point One Technology Storm VSPEC-IV dual axis corner fan
@@ -457,6 +466,7 @@
 - Skyfan DC fan with light
 - Smart Mist3 TX-1602MF (ZJ-1522A-WiFi)
 - Smartmi Air Circulating fan
+- Sofucor KBS ceiling fan with light
 - Stirling FS1-40DC pedestal fan
 - Sulion Crixus L ceiling fan with light
 - Temple and Webster Alina ceiling fan
@@ -465,6 +475,7 @@
 - Treatlife DS03 fan with dimmable light
 - Varin CFWI50 RGBCW ceiling fan
 - Varin VA-E003 and VA-002 ceiling fans with light
+- Vivohome AirBoost Louver Series register booster fan
 - Windcalm ceiling fans with and without cool/warm white dimmable light
 - Yamazen Living AHX-ALD30 pedestal fan
 - Yidi/NHZS fan and light wall switch
@@ -476,6 +487,7 @@
 
 - Alen BreatheSmart 35i and 45i air purifiers
 - Arlec APR005HA air purifier
+- AtmosC A Series air purifier
 - Breville Easy Air, Smart Air Connect, Smart Air Viral Protect Plus and Night Glow purifiers
 - Cecotec TotalPure purifier
 - Cleverio AP100 air purifier
@@ -505,12 +517,12 @@
 - Soleusair A02 and A10 air purifiers
 - Stadler Form Roger air purifier
 - Tesla Smart S300, Pro and Mini air purifiers
-- Trident AirDome-70 air purifier
+- Trident AirDome 60 and 70 air purifiers
 - TrueLife P3 and P7 air purifiers
 - Vephos True air purifier
 - Vestfrost VP-A1Z40HW air purifier
 - Vork VK6067AW air purifier
-- Webber AP9750 air purifier
+- Webber AP9750 and APG7800 air purifiers
 
 ### Dehumidifiers
 
@@ -519,6 +531,7 @@
 - AlecoAir D12 ECO, D12/D16 Home, D14, D16, D25 Traditio dehumidifiers
 - Argo Dry Pury Evo WF dehumidifier
 - Arida S7L-2 dehumidifier
+- Belair Baltic Irradio 20L dehumidifier
 - Cecotec BigDry 4000 dehumidifier
 - Clean Air Optima CA-702 dehumidifier
 - Cleverio AD100 dehumidifier
@@ -569,6 +582,7 @@
 - Vivosun DE0003 dehumidifier
 - Wellio D008A 20L dehumidifier
 - WetAir WAD-A10L dehumidifier
+- Weye WDH-29A dehumidifier
 - Woods MRD25GW and WDD90 dehumidifiers
 
 ### Humidifiers
@@ -719,9 +733,8 @@
 - WMDL 2C dual channel bidirectional energy meter
 - Xoca DAC2121C BI energy meter
 - Yagusmart 3PN 63A 3-phase multi-tariff and iMeter 3PN energy meters
-- Zemismart SDM01-TW0-12-ZM 3-phase bidirectional energy meter
-- Zemismart SMD02T-TZ 2-phase 120A bidirectional energy meter
-- Zemismart SPM02-(multiple variants) 3-phase energy meter
+- Zemismart SDM01 1 and 3-phase bidirectional energy meters
+- Zemismart SPM02-(multiple variants) 2 and 3-phase energy meter
 - Zemismart ZMAi-90 smart switch energy meter
 - ZM-Wi-Fi smart meter
 
@@ -730,7 +743,7 @@
 - Absina Wallbox EV charger (also sold as Dé Wallbox and supporting 16, 32, 40 and 50A single and 3-phase variants)
 - ADPOW GO-B6 Pro-32A EV charger
 - AFYEEV 16A 11kW, 32A 7kW and 22kW portable EV chargers
-- Aimiler 11kW EV charger
+- Aimiler 11kW 16A and 40A EV chargers
 - Ampbolt Level 1/2 portable EV charger
 - dé Wall EV charger (3-phase 22Kw)
 - Demuda 4048/6048 MPPT solar charge controller
@@ -743,12 +756,12 @@
 - Ipengen GO-E31-16A and 32A EV chargers
 - Junsun 32A EV charger
 - Kolanky 3.6kW EV charger
-- Lidl Tronic solar power storage
+- Lidl Tronic solar power storage and Balcony solar inverter
 - MakeSkyBlue MPPT solar battery charger
 - Nine 32A EV charger
 - Noeifevo Q21W EV charger
 - Olight Ostation 2 battery charging station
-- Oscal PowerMax 6000 portable power station
+- Oscal PowerMax 2400 Pro and 6000 portable power stations
 - Parkside PLGS 2012 A1 smart charger for powertools
 - SEVR X1 EV charger
 - SRNE SE Series lithium battery
@@ -947,6 +960,7 @@ of device.
 - LSC Smart Connect Neon LED strip
 - LSC Smart Connect Party string lights
 - LSC smart connect RGB CCT lightbulb (similar to older generic bulbs, so may work for others)
+- Lumary D1 6 inch retrofit downlight (independent RGB ring and CCT centre)
 - Lytmi Fantasy/Neo 3 HDMI sync backlight
 - Malmbergs QS-WIFI-D02-TRIAC single dimmer module
 - Malmbergs QS-WIFI-D02-TRIAC-2C dual dimmer module
@@ -965,9 +979,11 @@ of device.
 - oLight Sphere ambient light
 - Outon Smart Lamp
 - Peteme recessed lighting
+- Pinar SmartLux door lights
 - PowerAsia RGB 6-inch recessed lighting
 - RGB48 RGBIC string light
 - Richelieu tunable white LED puck light (166142030)
+- Sensio 240V Kinetic Receiver dimmer and Titan Kinetic 5 light driver
 - Spa Electrics Iris pool light controller
 - Space Dog Music Lamp (works for Aurora Smart Galaxy Star)
 - SunnyBot plant light
@@ -1212,6 +1228,7 @@ port and password.
 - Nedis pet feeder
 - Newpet pet feeder
 - Ningbo BF314A camera pet feeder
+- Nityers Titan camera pet feeder
 - Oneisall PFD-002 Pro IR pet feeder
 - Papifeed pet feeder
 - Pawspik Microchip pet feeder
@@ -1273,7 +1290,10 @@ port and password.
 - Holman WX1 tap timer (sprinkler controller)
 - Holman WX2 dual tap timer
 - Holman WX8 8 sprinkler irrigation controller
+- Inkbird IIC400 irrigation controller
+- Joekol dual pump watering system
 - KRain KRX8 (also KRX6) irrigation controller
+- Neo Coolcam 16 zone sprinkler controller
 - Neo NAS-WV02W water use monitoring valve
 - Neptun Smart and Smart+ water leak control systems
 - Qoto 03 smart water valve / sprinkler controller
@@ -1368,7 +1388,9 @@ port and password.
 - RSE TY-WFH v3.01 gate controller
 - RTCZ-03 human presence sensor
 - Ryakka 7-in-1 smart pool monitor
+- Satisure power outage alarm
 - SD123 HPR01 human presence radar
+- Shrivee triple water timer
 - SNT957W-TDE temperature sensor
 - SNT957W-DE CBU temperature and humidity sensor
 - Sodial probe thermometer

@@ -771,7 +771,7 @@ Further device support has been made with the assistance of users. Please consid
 - [pro-logic](https://github.com/pro-logic) for contributing support for Eglo ceiling fan with light, which was merged with the non-light variant.
 - [ludook](https://github.com/ludook) for contributing support for Beok BAC-009 smart knob zigbee thermostat.
 - [haywoodmarx](https://github.com/haywoodmarx) for contributing support for Kogan KASMWEKFITEA fitted electric blanket.
-- [nicholasng99](https://github.com/nicholasng99) for contributing support for City Energy L10WFE gas water heater and Trident AirDome-70 air purifier.
+- [nicholasng99](https://github.com/nicholasng99) for contributing support for City Energy L10WFE gas water heater and Trident AirDome 60 and 70 air purifiers.
 - [underscorejasiu](https://github.com/underscorejasiu) for contributing support for TOMZN SWC32v4 energy monitoring breaker.
 - [muccijacopo](https://github.com/muccijacopo) for contributing support for Ferroli EGEA heat pump water heater.
 - [Tombost](https://github.com/Tombost) for contributing support for Joyonway PB562 spa pool controller.
@@ -819,7 +819,7 @@ Further device support has been made with the assistance of users. Please consid
 - [Zuz666](https://github.com/Zuz666) for contributing support for Imaxfire AWA2 water vapour fireplace and improvements to light entities.
 - [mmaarrkk02](https://github.com/mmaarrkk02) for contributing support for NWT WDH-10EM dehumidifier.
 - [toller892](https://github.com/toller892) for contributing a fix for water heaters.
-- [terryrankine](https://github.com/terryrankine) for contributing support for AOSDK garage door with light.
+- [terryrankine](https://github.com/terryrankine) for contributing support for AOSDK garage door with light and Zemismart SPM01-D2TW-ZM single phase energy meter.
 - [DawidSu](https://github.com/DawidSu) for contributing support for Varpoolfaye pool heat pump.
 - [rbswift](https://github.com/rbswift) for contributing improvements to Intaflo Intabloc combo heat pump.
 - [wantstoautomate](https://github.com/wantstoautomate) for contributing improvements to Lublueblu SL60D vacuum.
@@ -884,3 +884,29 @@ Further device support has been made with the assistance of users. Please consid
 - [piotr-romanowski](https://github.com/piotr-romanowski) for contributing support for Fakro ARZ roof blind.
 - [mco85](https://github.com/mco85) for contributing support for Kibernetik 12K portable air conditioner.
 - [barbalexs](https://github.com/barbalexs) for contributing support for EleChico CCIB001 ice bath heat pump controller.
+- [Rangzig93](https://github.com/Rangzig93) for contributing support for Airwoods fresh air heat pump.
+- [romainsc](https://github.com/romainsc) for contributing improvements to Teknopoint Idra Skiv.
+- [kcgthb](https://github.com/kcgthb) for contributing improvements to Petlibro PLAF203 pet feeder.
+- [Matt-Hadley](https://github.com/Matt-Hadley) for contributing support for Sensio 240V Kinetic Receiver dimmer and Titan Kinetic 5 light driver.
+- [flo-m](https://github.com/flo-m) for contributing support for Pinar SmartLux door lights.
+- [algrym](https://github.com/algrym) for contributing improvements to Leo's Loo Too litter box.
+- [com6056](https://github.com/com6056) for contributing logging improvements.
+- [ralphxtrem](https://github.com/ralphxtrem) for contributing support for AtmosC A Series air purifier.
+- [pedrohcmeneses](https://github.com/pedrohcmeneses) for contributing support for Coibeu WKFS-004 ceiling fan with light.
+- [neneonline](https://github.com/neneonline) for contributing support for Tuya device discovery.
+- [macher91](https://github.com/macher91) for contributing support for Shrivee triple water timer.
+- [DevilRange](https://github.com/DevilRange) for contributing support for Lidl Tronic Balcony solar inverter.
+- [wayni850528](https://github.com/wayni850528) for contributing support for Weye WDH-29A dehumidifier.
+- [LightningManGTS](https://github.com/LightningManGTS) for contributing support for Vivohome AirBoost Series register booster fan.
+- [rfinnie](https://github.com/rfinnie) for contributing support for Aimiler 40A EV charger.
+- [ptparker](https://github.com/ptparker) for contributing support for Pioneer ECOasis 150 ERV.
+- [rippe77](https://github.com/rippe77) for contributing improvements to BHT002 GBLW thermostat.
+- [anddon](https://github.com/anddon) for contributing support for Olimpia Splendid Unico Pro air conditioner.
+- [paradoxisme](https://github.com/paradoxisme) for contributing support for Sofucor KBS ceiling fan with light.
+- [msemenkin](https://github.com/msemenkin) for contributing support for Neo Coolcam 16 zone sprinkler controller.
+- [awadak3davra](https://github.com/awadak3davra) for contributing improvements to TOMPD-63LW/SW breaker.
+- [gurmeherchawla](https://github.com/gurmeherchawla) for contributing support for Imagine 3+1 triple switch with fan controller.
+- [christhementalist](https://github.com/christhementalist) for contributing support for Goldair GPCV405 convection heater.
+- [adfhogan](https://github.com/adfhogan) for contributing support for Aqua Plus APAIO270 water heater.
+- [ffais](https://github.com/ffais) for contributing support for Joekol dual pump watering system.
+- [jmlankford](https://github.com/jmlankford) for contributing support for Lumary D1 downlight.
