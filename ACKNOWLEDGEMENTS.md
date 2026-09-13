@@ -954,3 +954,10 @@ Further device support has been made with the assistance of users. Please consid
 - [denismilanovic](https://github.com/denismilanovic) for contributing support for Breville BAD358 dehumidifier.
 - [klobuczek](https://github.com/klobuczek) for contributing support for FRE1L4 water chiller.
 - [gergely-sallai](https://github.com/gergely-sallai) for contributing support for Holtop CDA-500t ERV.
+- [flsoto](https://github.com/flsoto) for contributing support for CNC YCB9NZF-40AP circuit breaker.
+- [blackjid](https://github.com/blackjid) for contributing support for Anwo Brezza ceiling fan.
+- [giraudsa](https://github.com/giraudsa) for contributing support for PJ2101A clamp meter.
+- [petermcg151](https://github.com/petermcg151) for contributing support for Madimack GT Freedom i80 pool cleaner.
+- [mcdax](https://github.com/mcdax) for contributing support for Ledvance floodlight camera and PTZ camera.
+- [k----n](https://github.com/k----n) for contributing support for Geeni WP005 pet treat camera.
+- [kbinish-ship-it](https://github.com/kbinish-ship-it) for contributing support for Arlec/Deta EV200D-HA EV charger.

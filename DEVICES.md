@@ -288,6 +288,7 @@
 - Beok TR9B _(rebadged as Vancoo and perhaps others)_, TR9B-AC2 thermostats
 - BHT-002-GALW and GABW thermostats _(rebadged as many different brands)_
 - Brade MC6 thermostat _(rebadged as many different brands)_
+- Coleman-Mach RVP 9240-391 thermostat
 - Computherm Q20 thermostat
 - Dr Heater DR-008 electric radiant floor thermostat
 - Drexma WiStat ET7AW thermostat
@@ -363,6 +364,7 @@
 - Amico 52" ceiling fan with light
 - Anderic UC7235T4 ceiling fan receiver
 - Anko HEGSM40 fan
+- Anwo Brezza ceiling fan
 - Arida Venti 160 small through-wall heat-recovery ventilation fan
 - Arlec ceiling fan and light remote control kit (CFR225HA also works for Sulion Cadillac)
 - Arlec Grid Connect smart ceiling fan (with and without light)
@@ -377,7 +379,7 @@
 - Blitzwill ceiling fan with light
 - Brandson A307362x3 tower fan
 - Breville AirDynamic 3D pedestal fan
-- Brilliant Ceiling fan with light, and remote controller
+- Brilliant 3 and 5 speed Ceiling fans with light, and fan remote controller
 - Calibo Cloudfan DC ceiling fan with light
 - Carro ceiling fan with cool and warm white lights
 - Carro PN-04F02D fan with dimmable light
@@ -705,7 +707,7 @@
 - Aulifants SMES200 energy monitoring breaker switch
 - Avidsen Soria Karst-400 and MI-400 solar inverters
 - CBI Astute smart controller breaker switch
-- CNC YCB9ZF-100W 1P circuit breaker
+- CNC YCB9ZF-100W and YCB9NZF-40AP 1P circuit breakers
 - Compteur digital electric (single phase)
 - CT-1203 dual clamp meter
 - Dcenta dual clamp meter
@@ -730,7 +732,7 @@
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
 - PC473 3-phase energy monitor
-- PJ-1103, PJ-1103A, PJ-1103C power clamp meters
+- PJ-1103, PJ-1103A, PJ-1103C, PJ-2101A power clamp meters
 - PowBay JGQW01-63 energy monitoring circuit breaker
 - PZIOT E01 energy meter
 - SG600MD solar inverter (also SG700MD, other SGxx0MD and SGxx0W models) sold under various brands
@@ -769,6 +771,7 @@
 - Aimiler 11kW 16A and 40A EV chargers
 - Ampbolt Level 1/2 portable EV charger
 - AmperePoint Q series EV chargers
+- Arlec/Deta EV200D-HA EV charger
 - Conow CBE2000 Pro solar battery
 - dé Wall EV charger (3-phase 22Kw)
 - Demuda 4048/6048 MPPT solar charge controller
@@ -951,6 +954,7 @@ of device.
 - Deltaco LED Strip (SH-LW5M)
 - Deta/Arlec motion sensor lights (DET100HA/DET102HA/MAL315HA)
 - Deta 6910HA series2 dimmer switch
+- Dewenwils low voltage lighting transformer (3 switch)
 - Dim2Warm G95 Gold 1800-2700K CCT lightbulb
 - Dream of You dual dimmable lamp
 - Dreamegg Nite 1 baby sound machine
@@ -1106,6 +1110,7 @@ of device.
 - Lenovo E1 vacuum cleaner
 - Liectroux G7. XR500 vacuum cleaners
 - Lubluelu A901, SL60D vacuum cleaners
+- Madimack GT Freedom i80 pool cleaner
 - MAMNV BR151 vacuum cleaner with mop
 - Medion S10 SW, S20 SW, X10 SW vacuum cleaners
 - Mellerware City Move vacuum cleaner
@@ -1185,6 +1190,7 @@ port and password.
 - HomeMate PTZ indoor camera
 - Kerui 200W camera
 - Kerui JS-P162 300W camera
+- Ledvance floodlight camera with and without PTZ
 - LSC Smart Connect dual band outdoor camera
 - LSC Smart Connect Outdoor PTZ camera
 - LSC Smart Connect PTZ camera
@@ -1240,6 +1246,7 @@ port and password.
 - Frienhund ACF180W-A dual camera pet feeder
 - Fukumaru AF01-W pet feeder
 - FurPipi PF05 pet feeder
+- Geeni WP005 pet treat camera
 - Hapaw pet fountain
 - Happy Llama Tech SoCool pet feeder
 - Happy Paws CoreBox litter box
@@ -1434,7 +1441,7 @@ port and password.
 - SNT957W-DE CBU temperature and humidity sensor
 - Sodial probe thermometer
 - Speaka SP-TVCM-510 TV mount
-- Steigen Solar Pro clothes drying rack
+- Steigen Solar Pro and Solar Ultra clothes drying racks
 - Sunbeam dual heated mattress pad
 - Sunbeam single heated mattress pad
 - Sundream LC-series salt pool chlorinator (rebranded as Poolomio)
